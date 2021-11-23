@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonardo B. Oliveira | Diego F. Aranha</title>
+    <link>/authors/leonardo-b.-oliveira/</link>
+      <atom:link href="/authors/leonardo-b.-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leonardo B. Oliveira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
+      <title>Leonardo B. Oliveira</title>
+      <link>/authors/leonardo-b.-oliveira/</link>
+    </image>
+    
+    <item>
+      <title>The computer for the 21st century: present security &amp; privacy challenges</title>
+      <link>/publication/oliveirapmabnww18/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveirapmabnww18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure-TWS: Authenticating Node to Multi-user Communication in Shared Sensor Networks</title>
+      <link>/publication/oliveirakgalpgz12/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveirakgalpgz12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TinyPBC: Pairings for authenticated identity-based non-interactive key distribution in sensor networks</title>
+      <link>/publication/oliveiraagscld11/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveiraagscld11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient implementation of elliptic curve cryptography in wireless sensors</title>
+      <link>/publication/aranhadlo10/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhadlo10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient implementation of elliptic curves on sensor nodes</title>
+      <link>/publication/aranhalod09/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhalod09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NanoPBC: implementing cryptographic pairings on an 8-bit platform</title>
+      <link>/publication/aranhaold09/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhaold09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Identity-Based Encryption for WM$^2$Nets</title>
+      <link>/publication/oliveiraamdld08/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveiraamdld08/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
