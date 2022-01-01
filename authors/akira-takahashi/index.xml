@@ -5,7 +5,7 @@
     <link>/authors/akira-takahashi/</link>
       <atom:link href="/authors/akira-takahashi/index.xml" rel="self" type="application/rss+xml" />
     <description>Akira Takahashi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Akira Takahashi</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>ECLIPSE: Enhanced Compiling method for Pedersen-committed zkSNARK Engines</title>
+      <link>/publication/aranhabcgot22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhabcgot22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Side-Channel Protections for Picnic Signatures</title>
       <link>/publication/aranhabestwz21/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/aranhabestwz21/</guid>
       <description></description>
     </item>
@@ -23,8 +31,24 @@
     <item>
       <title>Side-Channel Protections for Picnic Signatures</title>
       <link>/publication/sekertabewz21/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/sekertabewz21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LadderLeak: Breaking ECDSA with Less than One Bit of Nonce Leakage</title>
+      <link>/publication/aranhan0ty20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhan0ty20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security of Hedged Fiat-Shamir Signatures Under Fault Attacks</title>
+      <link>/publication/aranhao0z20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhao0z20/</guid>
       <description></description>
     </item>
     

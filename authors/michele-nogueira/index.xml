@@ -5,7 +5,7 @@
     <link>/authors/michele-nogueira/</link>
       <atom:link href="/authors/michele-nogueira/index.xml" rel="self" type="application/rss+xml" />
     <description>Michele Nogueira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Michele Nogueira</title>
@@ -15,8 +15,16 @@
     <item>
       <title>The computer for the 21st century: present security &amp; privacy challenges</title>
       <link>/publication/oliveirapmabnww18/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/oliveirapmabnww18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AoT: Authentication and Access Control for the Entire IoT Device Life-Cycle</title>
+      <link>/publication/netoscnncglapo16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/netoscnncglapo16/</guid>
       <description></description>
     </item>
     
