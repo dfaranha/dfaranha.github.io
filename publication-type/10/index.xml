@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10 | Diego F. Aranha</title>
+    <link>/publication-type/10/</link>
+      <atom:link href="/publication-type/10/index.xml" rel="self" type="application/rss+xml" />
+    <description>10</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
+      <title>10</title>
+      <link>/publication-type/10/</link>
+    </image>
+    
+    <item>
+      <title>(In)segurança do voto eletrônico no Brasil</title>
+      <link>/publication/aranhakms14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhakms14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aritmética eficiente em curvas elípticas no modelo de Huff</title>
+      <link>/publication/sousaa13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/sousaa13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cifração autenticada utilizando PUFs</title>
+      <link>/publication/resendea13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/resendea13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação eficiente de emparelhamentos bilineares sobre curvas elípticas na plataforma ARM</title>
+      <link>/publication/tairaa13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/tairaa13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paralelização em software do Algoritmo de Miller</title>
+      <link>/publication/aranhal09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhal09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Certificateless Signcryption</title>
+      <link>/publication/aranhacld08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhacld08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação eficiente de criptografia de curvas elípticas em sensores sem fio</title>
+      <link>/publication/aranhaclod08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhaclod08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Um framework para definição e análise de modelos de consistência de memória</title>
+      <link>/publication/mendesamd0502/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/mendesamd0502/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

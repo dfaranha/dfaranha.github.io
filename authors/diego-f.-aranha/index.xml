@@ -397,6 +397,14 @@
     </item>
     
     <item>
+      <title>(In)segurança do voto eletrônico no Brasil</title>
+      <link>/publication/aranhakms14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhakms14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Binary Elligator Squared</title>
       <link>/publication/aranhafqtz14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
@@ -421,18 +429,26 @@
     </item>
     
     <item>
-      <title>Software vulnerabilities in the Brazilian voting machine</title>
-      <link>/publication/aranhakms14/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/aranhakms14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Two is the fastest prime: lambda coordinates for binary elliptic curves</title>
       <link>/publication/oliveiralar14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/oliveiralar14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aritmética eficiente em curvas elípticas no modelo de Huff</title>
+      <link>/publication/sousaa13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/sousaa13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação eficiente de emparelhamentos bilineares sobre curvas elípticas na plataforma ARM</title>
+      <link>/publication/tairaa13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/tairaa13/</guid>
       <description></description>
     </item>
     
@@ -573,6 +589,22 @@
     </item>
     
     <item>
+      <title>Paralelização em software do Algoritmo de Miller</title>
+      <link>/publication/aranhal09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhal09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação eficiente de criptografia de curvas elípticas em sensores sem fio</title>
+      <link>/publication/aranhaclod08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhaclod08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the Identity-Based Encryption for WM² Nets</title>
       <link>/publication/oliveiraamdld08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
@@ -601,6 +633,14 @@
       <link>/publication/melosma05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>/publication/melosma05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Um framework para definição e análise de modelos de consistência de memória</title>
+      <link>/publication/mendesamd0502/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/mendesamd0502/</guid>
       <description></description>
     </item>
     
