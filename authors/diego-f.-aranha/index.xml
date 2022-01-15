@@ -445,6 +445,14 @@
     </item>
     
     <item>
+      <title>Cifração autenticada utilizando PUFs</title>
+      <link>/publication/resendea13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/resendea13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Implementação eficiente de emparelhamentos bilineares sobre curvas elípticas na plataforma ARM</title>
       <link>/publication/tairaa13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -593,6 +601,14 @@
       <link>/publication/aranhal09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>/publication/aranhal09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Certificateless Signcryption</title>
+      <link>/publication/aranhacld08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhacld08/</guid>
       <description></description>
     </item>
     
