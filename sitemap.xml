@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/teaching/unb/</loc>
+    <loc>/courses/unb/</loc>
   </url><url>
-    <loc>/teaching/unicamp/</loc>
+    <loc>/courses/unicamp/</loc>
   </url><url>
     <loc>/teaching/</loc>
   </url><url>
@@ -725,14 +725,12 @@
     <loc>/publication/mendesamd0502/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/courses/</loc>
   </url><url>
     <loc>/authors/admin/</loc>
   </url><url>
     <loc>/post/</loc>
   </url><url>
     <loc>/tags/</loc>
-  </url><url>
-    <loc>/teaching/</loc>
   </url>
 </urlset>
