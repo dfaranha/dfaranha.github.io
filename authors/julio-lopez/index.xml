@@ -5,7 +5,7 @@
     <link>/authors/julio-lopez/</link>
       <atom:link href="/authors/julio-lopez/index.xml" rel="self" type="application/rss+xml" />
     <description>Julio López</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Julio López</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Lightweight cryptography on ARM</title>
-      <link>/publication/cruzralp16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/cruzralp16/</guid>
+      <title>Finite Field Arithmetic Using AVX-512 For Isogeny-Based Cryptography</title>
+      <link>/publication/orisakala18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/orisakala18/</guid>
       <description></description>
     </item>
     
@@ -33,30 +33,6 @@
       <link>/publication/aranhal12b/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/aranhal12b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient implementation of elliptic curves on sensor nodes</title>
-      <link>/publication/aranhalod09/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/aranhalod09/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-Speed Parallel Software Implementation of the $η_T$ Pairing</title>
-      <link>/publication/aranhalh09/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/aranhalh09/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NanoPBC: implementing cryptographic pairings on an 8-bit platform</title>
-      <link>/publication/aranhaold09/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/aranhaold09/</guid>
       <description></description>
     </item>
     

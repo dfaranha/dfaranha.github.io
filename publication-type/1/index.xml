@@ -141,14 +141,6 @@
     </item>
     
     <item>
-      <title>Evaluation of Timing Side-Channel Leakage on a Multiple-Target Dynamic Binary Translator</title>
-      <link>/publication/napolirab18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/napolirab18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Faster Unbalanced Private Set Intersection</title>
       <link>/publication/resendea18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -177,6 +169,14 @@
       <link>/publication/fujiia17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/fujiia17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Software Implementation of Laddering Algorithms Over Binary Elliptic Curves</title>
+      <link>/publication/aranhaak17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhaak17/</guid>
       <description></description>
     </item>
     
@@ -337,6 +337,14 @@
       <link>/publication/tavernefarhl11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/tavernefarhl11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Implementation of Binary Elliptic Curves: Impact of the Carry-Less Multiplier on Scalar Multiplication</title>
+      <link>/publication/tavernefarhl11b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tavernefarhl11b/</guid>
       <description></description>
     </item>
     

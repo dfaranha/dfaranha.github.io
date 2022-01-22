@@ -36,5 +36,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Software Implementation of Binary Elliptic Curves: Impact of the Carry-Less Multiplier on Scalar Multiplication</title>
+      <link>/publication/tavernefarhl11b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tavernefarhl11b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding scalar multiplication over binary elliptic curves using the new carry-less multiplication instruction</title>
+      <link>/publication/tavernefarhl11a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tavernefarhl11a/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

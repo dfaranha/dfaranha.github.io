@@ -45,6 +45,22 @@
     </item>
     
     <item>
+      <title>The Ring-LWE Problem in Lattice-Based Cryptography: The Case of Twisted Embeddings</title>
+      <link>/publication/ortizaacd21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ortizaacd21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing the optimal ate pairing over elliptic curves with embedding degrees 54 and 48 at the 256-bit security level</title>
+      <link>/publication/mbangaf20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mbangaf20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient and secure software implementations of Fantomas</title>
       <link>/publication/cruzga20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -177,6 +193,14 @@
       <link>/publication/oliveirakgalpgz12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/oliveirakgalpgz12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding scalar multiplication over binary elliptic curves using the new carry-less multiplication instruction</title>
+      <link>/publication/tavernefarhl11a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tavernefarhl11a/</guid>
       <description></description>
     </item>
     

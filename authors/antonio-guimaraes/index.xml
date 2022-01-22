@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Secure and efficient software implementation of QC-MDPC code-based cryptography</title>
+      <link>/publication/guimaraesab20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/guimaraesab20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introducing Arithmetic Failures to Accelerate QC-MDPC Code-Based Cryptography</title>
       <link>/publication/guimaraesba19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -41,6 +49,22 @@
       <link>/publication/guimaraesab19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/guimaraesab19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing the decoding process of a post-quantum cryptographic algorithm</title>
+      <link>/publication/guimaraesba17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/guimaraesba17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extensão do conjunto de instruções para implementação segura de X25519</title>
+      <link>/publication/guimaraesba16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/guimaraesba16/</guid>
       <description></description>
     </item>
     
