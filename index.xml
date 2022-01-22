@@ -546,6 +546,14 @@
     </item>
     
     <item>
+      <title>O Computador para o Século 21: Desafios de Segurança e Privacidade após 25 anos</title>
+      <link>/publication/oliveirapmabnw18/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveirapmabnw18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimizing the decoding process of a post-quantum cryptographic algorithm</title>
       <link>/publication/guimaraesba17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -626,6 +634,14 @@
     </item>
     
     <item>
+      <title>Canais laterais em criptografia simétrica e de curvas elı́pticas: ataques e contramedidas</title>
+      <link>/publication/ladeiranvdal16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ladeiranvdal16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CCA1-secure somewhat homomorphic encryption</title>
       <link>/publication/moraisad16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -691,9 +707,9 @@
     
     <item>
       <title>Implementação eficiente e segura de cifras de fluxo</title>
-      <link>/publication/cunnhaca16/</link>
+      <link>/publication/cunhaca16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/cunnhaca16/</guid>
+      <guid>/publication/cunhaca16/</guid>
       <description></description>
     </item>
     
@@ -774,6 +790,14 @@
       <link>/publication/rodriguesrap15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/rodriguesrap15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação Eficiente e Segura de Algoritmos Criptográficos</title>
+      <link>/publication/faz-hernandezcal15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/faz-hernandezcal15/</guid>
       <description></description>
     </item>
     
