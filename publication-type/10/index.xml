@@ -5,7 +5,7 @@
     <link>/publication-type/10/</link>
       <atom:link href="/publication-type/10/index.xml" rel="self" type="application/rss+xml" />
     <description>10</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>10</title>
@@ -13,10 +13,82 @@
     </image>
     
     <item>
+      <title>Análise de segurança em aplicativos bancários na plataforma Android</title>
+      <link>/publication/cruza15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/cruza15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cuYASHE: Computação sobre dados cifrados em GPGPUs</title>
+      <link>/publication/alvesa15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/alvesa15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação eficiente em software da função Lyra2 em arquiteturas modernas</title>
+      <link>/publication/goncalvesa15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/goncalvesa15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação em Tempo Constante de Amostragem de Gaussianas Discretas</title>
+      <link>/publication/ortizad15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ortizad15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis over encrypted data using homomorphic encryption (short paper)</title>
+      <link>/publication/pereiraa15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pereiraa15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Técnica de Análise Estática para Detecção de Canais Laterais Baseados em Tempo</title>
+      <link>/publication/silvapa15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/silvapa15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zkPAKE: A Simple Augmented PAKE Protocol (short paper)</title>
+      <link>/publication/magalhaesra15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/magalhaesra15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>(In)segurança do voto eletrônico no Brasil</title>
-      <link>/publication/aranhakms14/</link>
+      <link>/publication/aranhakms14pt/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/aranhakms14/</guid>
+      <guid>/publication/aranhakms14pt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlowTracker: Detecção de Código Nao Isócrono via Análise Estática de Fluxo</title>
+      <link>/publication/silvarap15/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/silvarap15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação eficiente de algoritmos para teste de primalidade</title>
+      <link>/publication/ribeiroa14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ribeiroa14/</guid>
       <description></description>
     </item>
     
@@ -41,6 +113,30 @@
       <link>/publication/tairaa13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publication/tairaa13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulnerabilidades no software da urna eletrônica brasileira</title>
+      <link>/publication/aranhakms13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhakms13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação eficiente em software de curvas elípticas e emparelhamentos bilineares</title>
+      <link>/publication/aranhal12a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhal12a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação eficiente em software de curvas elípticas e emparelhamentos bilineares</title>
+      <link>/publication/aranhal12b/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhal12b/</guid>
       <description></description>
     </item>
     

@@ -11,10 +11,19 @@
     <loc>/publication-type/1/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/akira-takahashi/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/amanda-cristina-davi-resende/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/anca-nitulescu/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/anderson-c.-a.-nascimento/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
@@ -27,6 +36,9 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/aranhahnpy22/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/davis-railsback/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/diego-f.-aranha/</loc>
@@ -44,6 +56,9 @@
     <loc>/authors/emil-madsen-bennedsen/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/resenderdna22/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/mathias-hall-andersen/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,19 +71,16 @@
     <loc>/publication/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/sophia-yakoubov/</loc>
+    <loc>/authors/rafael-dowsley/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>/authors/sophia-yakoubov/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/9/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/rochalpa21/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/amanda-cristina-davi-resende/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/anders-p.-k.-dalskov/</loc>
@@ -488,16 +500,52 @@
     <loc>/authors/italo-s.-cunha/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication-type/10/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/5/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/alfred-menezes/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/cruza15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/bruno-r.-silva/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/hoffmancaa15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/alvesa15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/fernando-m.-q.-pereira/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/guilherme-p.-goncalves/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/hilder-vitor-l.-pereira/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/goncalvesa15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ortizad15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/karina-m.-magalhaes/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/karina-mochetti/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pedro-g.-m.-r.-alves/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/pereiraa15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/latincrypt2014/</loc>
@@ -506,10 +554,16 @@
     <loc>/publication/resendema15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/aranhakms14/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>/authors/ricardo-dahab/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/10/</loc>
+    <loc>/publication/silvapa15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/magalhaesra15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/aranhakms14pt/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/andre-miranda/</loc>
@@ -521,6 +575,9 @@
     <loc>/publication/aranhafqtz14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/bruno-c.-d.-ribeiro/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/chen-qian/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -530,7 +587,13 @@
     <loc>/authors/felipe-scarel/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/silvarap15/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/aranhafgktz14/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ribeiroa14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/jean-christophe-zapalowicz/</loc>
@@ -539,10 +602,16 @@
     <loc>/authors/jean-gabriel-kammerer/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/leonardo-r.-ribeiro/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/marcelo-m.-karam/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/pierre-alain-fouque/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/aranhakms14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/thomaz-oliveira/</loc>
@@ -578,6 +647,9 @@
     <loc>/authors/victor-h.-h.-taira/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/aranhakms13/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/aman-kansal/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -594,6 +666,12 @@
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/feng-zhao/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/aranhal12a/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/aranhal12b/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/aranhafkmr12/</loc>
@@ -645,9 +723,6 @@
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/aranhakmr11/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/ricardo-dahab/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/tavernefarhl11/</loc>
