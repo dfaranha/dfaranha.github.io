@@ -5,12 +5,20 @@
     <link>/authors/bruno-c.-d.-ribeiro/</link>
       <atom:link href="/authors/bruno-c.-d.-ribeiro/index.xml" rel="self" type="application/rss+xml" />
     <description>Bruno C. D. Ribeiro</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Bruno C. D. Ribeiro</title>
       <link>/authors/bruno-c.-d.-ribeiro/</link>
     </image>
+    
+    <item>
+      <title>Análise de segurança da distribuição de raízes na ICP-Brasil</title>
+      <link>/publication/ribeirofa17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ribeirofa17/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Implementação eficiente de algoritmos para teste de primalidade</title>

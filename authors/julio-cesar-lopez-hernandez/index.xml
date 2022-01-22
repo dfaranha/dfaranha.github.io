@@ -5,12 +5,20 @@
     <link>/authors/julio-cesar-lopez-hernandez/</link>
       <atom:link href="/authors/julio-cesar-lopez-hernandez/index.xml" rel="self" type="application/rss+xml" />
     <description>Julio César López-Hernández</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Julio César López-Hernández</title>
       <link>/authors/julio-cesar-lopez-hernandez/</link>
     </image>
+    
+    <item>
+      <title>Finite Field Arithmetic Using AVX-512 For Isogeny-Based Cryptography</title>
+      <link>/publication/orisakala18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/orisakala18/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Secure and Efficient Implementation of the Quotient Digital Signature Algorithm (qDSA)</title>
@@ -69,6 +77,22 @@
     </item>
     
     <item>
+      <title>Implementação eficiente em software de curvas elípticas e emparelhamentos bilineares</title>
+      <link>/publication/aranhal12a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhal12a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação eficiente em software de curvas elípticas e emparelhamentos bilineares</title>
+      <link>/publication/aranhal12b/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhal12b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Secure-TWS: Authenticating Node to Multi-user Communication in Shared Sensor Networks</title>
       <link>/publication/oliveirakgalpgz12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
@@ -81,14 +105,6 @@
       <link>/publication/aranhaklgl11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/aranhaklgl11/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Implementation of Binary Elliptic Curves: Impact of the Carry-Less Multiplier on Scalar Multiplication</title>
-      <link>/publication/tavernefarhl11/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/tavernefarhl11/</guid>
       <description></description>
     </item>
     
@@ -161,6 +177,38 @@
       <link>/publication/aranhaold09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>/publication/aranhaold09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paralelização em software do Algoritmo de Miller</title>
+      <link>/publication/aranhal09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhal09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Certificateless Signcryption</title>
+      <link>/publication/aranhacld08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhacld08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação eficiente de criptografia de curvas elípticas em sensores sem fio</title>
+      <link>/publication/aranhaclod08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhaclod08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Identity-Based Encryption for WM² Nets</title>
+      <link>/publication/oliveiraamdld08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveiraamdld08/</guid>
       <description></description>
     </item>
     

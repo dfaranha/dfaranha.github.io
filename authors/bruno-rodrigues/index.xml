@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>FlowTracker: Detecção de Código Nao Isócrono via Análise Estática de Fluxo</title>
+      <link>/publication/rodriguesrap15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rodriguesrap15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Técnica de Análise Estática para Detecção de Canais Laterais Baseados em Tempo</title>
+      <link>/publication/rodriguespa15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rodriguespa15/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
