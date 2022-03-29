@@ -90,11 +90,26 @@
       <link>/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/teaching/</guid>
-      <description>&lt;p&gt;Spring 2022:&lt;/p&gt;
+      <description>&lt;p&gt;Fall 2023:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kursuskatalog.au.dk/en/course/114560/Distributed-Systems-and-Security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Distributed Systems and Security&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Spring 2023:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kursuskatalog.au.dk/en/course/108987/Systems-Security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Systems Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kursuskatalog.au.dk/en/course/111373/Computer-Architecture-Networks-and-Operating-Systems&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Architecture, Operating Systems and Networks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Fall 2022:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kursuskatalog.au.dk/da/course/115448/Network-Security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kursuskatalog.au.dk/en/course/114560/Distributed-Systems-and-Security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Distributed Systems and Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://master-it-vest.dk/fagpakker/softwarekonstruktion/sikre-distribuerede-systemer-og-anvendt-kryptologi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secure Distributed Systems and Advanced Cryptology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Spring 2022:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kursuskatalog.au.dk/en/course/112277/Elliptic-Curves-Number-Theory-and-Cryptography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elliptic Curves - Number Theory and Cryptography&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kursuskatalog.au.dk/en/course/111373/Computer-Architecture-Networks-and-Operating-Systems&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Architecture, Operating Systems and Networks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://master-it-vest.dk/fagpakker/softwarekonstruktion/sikre-distribuerede-systemer-og-anvendt-kryptologi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secure Distributed Systems and advanced cryptology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://master-it-vest.dk/fagpakker/softwarekonstruktion/sikre-distribuerede-systemer-og-anvendt-kryptologi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secure Distributed Systems and Advanced Cryptology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Fall 2021:&lt;/p&gt;
 &lt;ul&gt;
@@ -366,6 +381,15 @@
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/privacy/</guid>
       <description>&lt;p&gt;This website tracks visitors using &lt;a href=&#34;https://analytics.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
