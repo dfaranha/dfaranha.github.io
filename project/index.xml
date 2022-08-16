@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Diego F. Aranha</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Electronic Voting</title>
+      <link>/project/evoting/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/evoting/</guid>
+      <description>&lt;p&gt;A collection of results about the security analysis of the Brazilian voting machines, obtained after a 7-year saga to experimentally demonstrate the security problems with the electronic voting system adopted in Brazilian elections. They it informed the (still ongoing) nation-wide debate around the need for adopting paper trails for auditing elections in the country.&lt;/p&gt;
+&lt;p&gt;Our results were extensively covered by national and international press, for example: &lt;a href=&#34;https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New York Times&lt;/a&gt;, &lt;a href=&#34;https://arstechnica.com/features/2016/11/internet-based-and-open-source-how-e-voting-is-working-around-the-globe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ars Technica&lt;/a&gt; (and a &lt;a href=&#34;https://arstechnica.com/tech-policy/2018/06/in-a-blow-to-e-voting-critics-brazil-suspends-use-of-all-paper-ballots/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;second&lt;/a&gt; time), &lt;a href=&#34;https://www.spiegel.de/netzwelt/netzpolitik/brasilien-wahl-angst-vor-der-elektronischen-wahlurne-a-1235518.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Der Spiegel&lt;/a&gt;, &lt;a href=&#34;https://www.economist.com/the-americas/2018/10/05/brazils-voters-worry-about-the-integrity-of-their-elections&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Economist&lt;/a&gt;, &lt;a href=&#34;https://www.zdnet.com/article/fraud-possible-in-brazils-e-voting-system/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZDNet&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=M3jMoh4zWjg&amp;amp;t=63s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBC Brazil&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=ZoaYECRGBn4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globo News&lt;/a&gt;, &lt;a href=&#34;http://redeglobo.globo.com/globocidadania/videos/t/edicoes/v/seguranca-eleitoral-parte-3/2160001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globo&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=xATaNCsre9Q&amp;amp;t=60s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBT&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=ZKy-ZobLdoA&amp;amp;t=56s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Record&lt;/a&gt;, &lt;a href=&#34;https://www1.folha.uol.com.br/fsp/tec/index-20120709.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Folha&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=qlPXj6HkxOo&amp;amp;t=548s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tecmundo&lt;/a&gt;, &lt;a href=&#34;https://g1.globo.com/tecnologia/blog/seguranca-digital/post/falha-na-urna-brasileira-reproduzia-fielmente-erro-de-1995-diz-professor.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G1&lt;/a&gt;, &lt;a href=&#34;http://noticias.terra.com.br/brasil/politica/eleicoes/urna-e-a-mais-defasada-diz-professor-que-violou-sistema-do-tse,dbeadf0a2566b310VgnCLD200000bbcceb0aRCRD.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra&lt;/a&gt;, &lt;a href=&#34;https://opiniao.estadao.com.br/noticias/geral,urnas-abertas-para-fraudes-imp-,933663&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estadão&lt;/a&gt;; among others.
+They were also part of the online course &lt;a href=&#34;https://www.coursera.org/course/digitaldemocracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securing Digital Democracy&lt;/a&gt;, by &lt;a href=&#34;https://jhalderm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J. Alex Halderman&lt;/a&gt;, where the situation in Brazil was briefly discussed.&lt;/p&gt;
+&lt;p&gt;If you understand Portuguese, the results were discussed at multiple official public hearings in the Brazilian Congress (recorded below):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=XiMga6Cn8AM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Constitution and Justice Commission&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=5B7ZiBWNJdg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Federal Senate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=PF9_xv_FfF0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chamber of Deputies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also gave many talks in academic and industry events around the country:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=in6JTwNGZCo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of São Paulo&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=IHrKjyPhm-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Campinas&lt;/a&gt; and several other universities (UnB, USP São Carlos, UFMG, CAPES, FGV-Rio)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0bAuf4osADg&amp;amp;t=2203s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mind the Sec 2018&lt;/a&gt; Conference, followed by a &lt;a href=&#34;https://www.youtube.com/watch?v=QuR0oCJSr0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;debate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4D0oCyfXfxY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XV International Free Software Forum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can find other publications and talks below.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

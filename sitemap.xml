@@ -209,6 +209,12 @@
     <loc>/authors/tomas-kulik/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project/evoting/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/10/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -299,7 +305,7 @@
     <loc>/talk/security-and-privacy-challenges-in-modern-embedded-systems/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/can-bockchains-make-voting-more-secure/</loc>
+    <loc>/talk/can-blockchains-make-voting-more-secure/</loc>
     <lastmod>2019-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/caio-luders-araujo/</loc>
