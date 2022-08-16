@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage" />
+  <meta name="description" content="Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings." />
 
   
-  <link rel="alternate" hreflang="en-us" href="/talk/ladderleak-breaking-ecdsa-with-less-than-one-bit-of-nonce-leakage/" />
+  <link rel="alternate" hreflang="en-us" href="/talk/implementing-pairings-in-software/" />
 
   
 
@@ -314,7 +314,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="/talk/ladderleak-breaking-ecdsa-with-less-than-one-bit-of-nonce-leakage/" />
+  <link rel="canonical" href="/talk/implementing-pairings-in-software/" />
 
   
   
@@ -331,9 +331,9 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Diego F. Aranha" />
-  <meta property="og:url" content="/talk/ladderleak-breaking-ecdsa-with-less-than-one-bit-of-nonce-leakage/" />
-  <meta property="og:title" content="LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage | Diego F. Aranha" />
-  <meta property="og:description" content="LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage" /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="/talk/implementing-pairings-in-software/" />
+  <meta property="og:title" content="Implementing pairings in software | Diego F. Aranha" />
+  <meta property="og:description" content="Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings." /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -342,7 +342,7 @@
         content="2017-01-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-01-12T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2015-08-23T00:00:00&#43;00:00">
   
 
   
@@ -361,26 +361,17 @@
   "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/talk/ladderleak-breaking-ecdsa-with-less-than-one-bit-of-nonce-leakage/"
+    "@id": "/talk/implementing-pairings-in-software/"
   },
-  "name": "LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage",
+  "name": "Implementing pairings in software",
   
   "location": {
     "@type": "Place",
-    "name": "Online",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "",
-      "addressLocality": "",
-      "postalCode": "",
-      "addressRegion": "",
-      "addressCountry": ""
-    }
-    
+    "name": "Guadalajara, Mexico"
   },
   
   
-  "startDate": "2021-01-12T00:00:00Z",
+  "startDate": "2015-08-23T00:00:00Z",
   
   
   "performer": {
@@ -388,7 +379,7 @@
     "name": "Diego F. Aranha"
   },
   
-  "description": "LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage"
+  "description": "Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings."
 }
 </script>
 
@@ -402,11 +393,11 @@
 
 
 
-  <title>LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage | Diego F. Aranha</title>
+  <title>Implementing pairings in software | Diego F. Aranha</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="06d80e8a093c3edb7070775512a177f4" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="68cb1b60e5c9c89834976b66cbf03b30" >
 
   
   
@@ -834,7 +825,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage</h1>
+  <h1>Implementing pairings in software</h1>
 
   
 
@@ -852,8 +843,7 @@
     
 
   <span >
-      <a href="/authors/diego-f.-aranha/">Diego F. Aranha</a></span>, <span >
-      <a href="/authors/akira-takahashi/">Akira Takahashi</a></span>
+      <a href="/authors/diego-f.-aranha/">Diego F. Aranha</a></span>
   </div>
   
   
@@ -913,21 +903,12 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://www.researchgate.net/publication/343601182_LadderLeak_Breaking_ECDSA_With_Less_Than_One_Bit_Of_Nonce_Leakage" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://www.researchgate.net/publication/292157215_Software_implementation_of_pairings_slides_for_ASCrypto_2015" target="_blank" rel="noopener">
   <i class="fa fa-layer-group mr-1"></i> 
     Slides
 </a>
 
 
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=UbjOKMTVMWQ" target="_blank" rel="noopener">
-  <i class="fa fa-film mr-1"></i> 
-  Video
-</a>
 
 
 
@@ -954,12 +935,6 @@
     
     <font size=3>
     
-        
-          <i class="fas fa-newspaper" title="News"></i> <a href="https://portswigger.net/daily-swig/ladderleak-side-channel-security-flaws-exploited-to-break-ecdsa-cryptography" target="_blank" rel="noopener">LadderLeak: Side-channel security flaws exploited to break ECDSA cryptography</a><br>
-        
-          <i class="fas fa-newspaper" title="News"></i> <a href="https://blog.trailofbits.com/2020/06/11/ecdsa-handle-with-care/" target="_blank" rel="noopener">ECDSA: Handle with Care</a><br>
-        
-    
     </font>
 
     <div class="article-style" style="margin-top: 2em">
@@ -969,7 +944,7 @@
 
     
        
-      <p class="pub-abstract">Although it is one of the most popular signature schemes today, ECDSA presents a number of implementation pitfalls, in particular due to the very sensitive nature of the random value (known as the nonce) generated as part of the signing algorithm. It is known that any small amount of nonce exposure or nonce bias can in principle lead to a full key recovery: the key recovery is then a particular instance of Boneh and Venkatesan&rsquo;s hidden number problem (HNP). That observation has been practically exploited in many attacks in the literature, taking advantage of implementation defects or side-channel vulnerabilities in various concrete ECDSA implementations. However, most of the attacks so far have relied on at least 2 bits of nonce bias (except for the special case of curves at the 80-bit security level, for which attacks against 1-bit biases are known, albeit with a very high number of required signatures). In this paper, we uncover LadderLeak, a novel class of side-channel vulnerabilities in implementations of the Montgomery ladder used in ECDSA scalar multiplication. The vulnerability is in particular present in several recent versions of OpenSSL. However, it leaks less than 1 bit of information about the nonce, in the sense that it reveals the most significant bit of the nonce, but with probability &lt;1. Exploiting such a mild leakage would be intractable using techniques present in the literature so far. However, we present a number of theoretical improvements of the Fourier analysis approach to solving the HNP (an approach originally due to Bleichenbacher), and this lets us practically break LadderLeak-vulnerable ECDSA implementations instantiated over the sect163r1 and NIST P-192 elliptic curves. In so doing, we achieve several significant computational records in practical attacks against the HNP.</p>
+      <p class="pub-abstract">Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings.</p>
     
 
     <div class="row">
@@ -978,7 +953,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            Jan 12, 2021
+            Aug 23, 2015
           </div>
         </div>
       </div>
@@ -987,24 +962,16 @@
     <div class="d-md-none space-below"></div>
 
     
-
-    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Events</div>
-          <div class="col-12 col-md-20"><ul>
-              
-                <div class="col-12 col-md-20"><li><a href="https://rwc.iacr.org/2021/program.php" target="_blank" rel="noopener">Real World Cryptography Conference (RWC) 2021</a></li></div>
-              
-                <div class="col-12 col-md-20"><li><a href="https://cryptovillage.org/dc28/" target="_blank" rel="noopener">Crypto &amp; Privacy Village at DEF CON 28: Safe Mode</a></li></div>
-              
-                <div class="col-12 col-md-20"><li><a href="https://www.blackhat.com/eu-20/briefings/schedule/index.html#ladderleak-breaking-ecdsa-with-less-than-one-bit-of-nonce-leakage-21343" target="_blank" rel="noopener">Black Hat Europe (BHEU) 2020</a></li></div>
-              
-                <div class="col-12 col-md-20"><li><a href="https://crypto.iacr.org/2020/wac.php" target="_blank" rel="noopener">Workshop on Attacks in Cryptography (WAC) at CRYPTO 2020</a></li></div>
-              
-          </ul></div>
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://latincrypt2015.cs.cinvestav.mx/" target="_blank" rel="noopener">
+            3rd Advanced School on Cryptology and Information Security in Latin America (ASCrypto 2015)
+            </a>
+          </div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -1013,15 +980,14 @@
     
 
     
+
+    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Online</div>
-          
-            <div class="col-md-3"></div>
-            <div class="col-12 col-md-9"></div>
+          <div class="col-12 col-md-9">Guadalajara, Mexico</div>
           
         </div>
       </div>

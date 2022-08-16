@@ -739,10 +739,10 @@
     </item>
     
     <item>
-      <title>Security Analysis of the Brazilian voting machine</title>
-      <link>/talk/security-analysis-of-the-brazilian-voting-machine/</link>
+      <title>Software vulnerabilities in the Brazilian voting machine</title>
+      <link>/talk/software-vulnerabilities-in-the-brazilian-voting-machine/</link>
       <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/security-analysis-of-the-brazilian-voting-machine/</guid>
+      <guid>/talk/software-vulnerabilities-in-the-brazilian-voting-machine/</guid>
       <description></description>
     </item>
     
@@ -907,10 +907,10 @@
     </item>
     
     <item>
-      <title>Software implementation of pairings</title>
-      <link>/talk/software-implementation-of-pairings/</link>
+      <title>Implementing pairings in software</title>
+      <link>/talk/implementing-pairings-in-software/</link>
       <pubDate>Sun, 23 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/talk/software-implementation-of-pairings/</guid>
+      <guid>/talk/implementing-pairings-in-software/</guid>
       <description></description>
     </item>
     
@@ -1131,15 +1131,15 @@
     </item>
     
     <item>
-      <title>Software vulnerabilities in the Brazilian voting machine</title>
-      <link>/talk/software-vulnerabilities-in-the-brazilian-voting-machine/</link>
+      <title>Security of electronic voting in Brazil</title>
+      <link>/talk/security-of-electronic-voting-in-brazil/</link>
       <pubDate>Mon, 06 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>/talk/software-vulnerabilities-in-the-brazilian-voting-machine/</guid>
+      <guid>/talk/security-of-electronic-voting-in-brazil/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Efficient Software Implementation of Binary Field Arithmetic Using Vector Instruction Sets</title>
+      <title>Efficient software implementation of binary field arithmetic using vector instruction sets</title>
       <link>/talk/efficient-software-implementation-of-binary-field-arithmetic-using-vector-instruction-sets/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
       <guid>/talk/efficient-software-implementation-of-binary-field-arithmetic-using-vector-instruction-sets/</guid>
@@ -1191,6 +1191,14 @@
       <link>/publication/oliveirakgalpgz12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/oliveirakgalpgz12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software implementation of pairings</title>
+      <link>/talk/software-implementation-of-pairings/</link>
+      <pubDate>Mon, 19 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/talk/software-implementation-of-pairings/</guid>
       <description></description>
     </item>
     

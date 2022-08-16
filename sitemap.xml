@@ -554,7 +554,7 @@
     <loc>/talk/lightweight-cryptography-on-arm/</loc>
     <lastmod>2016-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/security-analysis-of-the-brazilian-voting-machine/</loc>
+    <loc>/talk/software-vulnerabilities-in-the-brazilian-voting-machine/</loc>
     <lastmod>2016-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/6/</loc>
@@ -680,7 +680,7 @@
     <loc>/publication/pereiraa16b/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/software-implementation-of-pairings/</loc>
+    <loc>/talk/implementing-pairings-in-software/</loc>
     <lastmod>2015-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/5/</loc>
@@ -821,7 +821,7 @@
     <loc>/talk/efficient-binary-field-arithmetic-and-applications-to-curve-based-cryptography/</loc>
     <lastmod>2012-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/software-vulnerabilities-in-the-brazilian-voting-machine/</loc>
+    <loc>/talk/security-of-electronic-voting-in-brazil/</loc>
     <lastmod>2012-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/efficient-software-implementation-of-binary-field-arithmetic-using-vector-instruction-sets/</loc>
@@ -874,6 +874,9 @@
   </url><url>
     <loc>/publication/oliveirakgalpgz12/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/software-implementation-of-pairings/</loc>
+    <lastmod>2011-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/7/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
