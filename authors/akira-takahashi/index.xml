@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage</title>
+      <link>/talk/ladderleak/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/ladderleak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Side-Channel Protections for Picnic Signatures</title>
       <link>/publication/aranhabestwz21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
