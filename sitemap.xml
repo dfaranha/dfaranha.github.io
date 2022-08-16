@@ -9,18 +9,27 @@
     <loc>/teaching/</loc>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/diego-f.-aranha/</loc>
-    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/aranha22ida/</loc>
-    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    <loc>/talk/introduction-to-blockchain-technology/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/</loc>
+    <loc>/event/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/efficient-software-implementation-of-curve-based-cryptography/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/experimenting-with-faster-elliptic-curves-in-rust/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/pitfalls-in-securing-danish-mobile-apps/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/1/</loc>
@@ -95,7 +104,10 @@
     <loc>/authors/sophia-yakoubov/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/ladderleak/</loc>
+    <loc>/talk/a-brief-history-of-the-brazilian-crypto-wars/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/ladderleak-breaking-ecdsa-with-less-than-one-bit-of-nonce-leakage/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/rochalpa21/</loc>
@@ -284,10 +296,31 @@
     <loc>/authors/yuval-yarom/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/florianoaab19/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/talk/security-and-privacy-challenges-in-modern-embedded-systems/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/can-bockchains-make-voting-more-secure/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/caio-luders-araujo/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/paulo-matias/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pedro-barbosa/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/return-of-the-insecure-brazilian-voting-machines/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/thiago-n.-c.-cardoso/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/leave-crypto-alone-myths-challendes-and-opportunities/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/florianoaab19/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/catherine-h.-gebotys/</loc>
@@ -308,12 +341,6 @@
     <loc>/publication/guimaraesab19/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/paulo-matias/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/pedro-barbosa/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/priscila-solis/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -321,9 +348,6 @@
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/aranhap19/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/thiago-n.-c.-cardoso/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/privacy/</loc>
@@ -455,6 +479,12 @@
     <loc>/publication/aranhag18/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/talk/pairings-are-not-dead-just-resting/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/introduction-to-pairings/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/faz-hernandezfa17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -520,6 +550,12 @@
   </url><url>
     <loc>/authors/tiago-b.-s.-reis/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/lightweight-cryptography-on-arm/</loc>
+    <lastmod>2016-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/security-analysis-of-the-brazilian-voting-machine/</loc>
+    <lastmod>2016-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/6/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
@@ -643,6 +679,9 @@
   </url><url>
     <loc>/publication/pereiraa16b/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/software-implementation-of-pairings/</loc>
+    <lastmod>2015-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/5/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
@@ -779,6 +818,15 @@
     <loc>/publication/aranhakms13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/talk/efficient-binary-field-arithmetic-and-applications-to-curve-based-cryptography/</loc>
+    <lastmod>2012-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/software-vulnerabilities-in-the-brazilian-voting-machine/</loc>
+    <lastmod>2012-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/efficient-software-implementation-of-binary-field-arithmetic-using-vector-instruction-sets/</loc>
+    <lastmod>2012-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/aman-kansal/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -868,6 +916,9 @@
   </url><url>
     <loc>/publication/aranhalh10a/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/high-speed-parallel-software-implementation-of-the-nt-pairing/</loc>
+    <lastmod>2009-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/aranhalod09/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
