@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings." />
+  <meta name="description" content="Security analysis of MitID and other mobile apps" />
 
   
-  <link rel="alternate" hreflang="en-us" href="/talk/software-implementation-of-bilinear-pairings/" />
+  <link rel="alternate" hreflang="en-us" href="/project/mobisec/" />
 
   
 
@@ -314,7 +314,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="/talk/software-implementation-of-bilinear-pairings/" />
+  <link rel="canonical" href="/project/mobisec/" />
 
   
   
@@ -325,32 +325,34 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Diego F. Aranha" />
-  <meta property="og:url" content="/talk/software-implementation-of-bilinear-pairings/" />
-  <meta property="og:title" content="Software implementation of bilinear pairings | Diego F. Aranha" />
-  <meta property="og:description" content="Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings." /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="/project/mobisec/" />
+  <meta property="og:title" content="Mobile Security | Diego F. Aranha" />
+  <meta property="og:description" content="Security analysis of MitID and other mobile apps" /><meta property="og:image" content="/project/mobisec/featured.png" />
+    <meta property="twitter:image" content="/project/mobisec/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2017-01-01T00:00:00&#43;00:00"
+        content="2018-08-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2015-08-23T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2018-08-01T00:00:00&#43;00:00">
   
 
   
 
 
-
-  
     
+
+
+
+
+
 
 
 
@@ -358,28 +360,34 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Event",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/talk/software-implementation-of-bilinear-pairings/"
+    "@id": "/project/mobisec/"
   },
-  "name": "Software implementation of bilinear pairings",
+  "headline": "Mobile Security",
   
-  "location": {
-    "@type": "Place",
-    "name": "Guadalajara, Mexico"
-  },
+  "image": [
+    "/project/mobisec/featured.png"
+  ],
   
+  "datePublished": "2018-08-01T00:00:00Z",
+  "dateModified": "2018-08-01T00:00:00Z",
   
-  "startDate": "2015-08-23T00:00:00Z",
-  
-  
-  "performer": {
+  "author": {
     "@type": "Person",
     "name": "Diego F. Aranha"
   },
   
-  "description": "Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings."
+  "publisher": {
+    "@type": "Organization",
+    "name": "Diego F. Aranha",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Security analysis of MitID and other mobile apps"
 }
 </script>
 
@@ -389,15 +397,17 @@
 
   
 
+  
 
 
 
 
-  <title>Software implementation of bilinear pairings | Diego F. Aranha</title>
+
+  <title>Mobile Security | Diego F. Aranha</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="68cb1b60e5c9c89834976b66cbf03b30" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="644277219a8c8913fb5c46cce245921e" >
 
   
   
@@ -804,7 +814,7 @@
   </div>
 
   <div class="page-body">
-    <div class="pub">
+    <article class="article article-project">
 
   
 
@@ -819,32 +829,32 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
   
-  
-<div class="article-container pt-3">
-  <h1>Software implementation of bilinear pairings</h1>
 
-  
 
-  
-    
+
+<div class="container pt-3">
+  <div class="row">
+    <div class="col-6">
+        <h1>Mobile Security</h1>
+        
+        <p class="page-subtitle">Security analysis of MitID and other mobile apps</p>
+        
+
+        
 
 
 <div class="article-metadata">
 
-  
-  
-  
-  
-  <div>
-    
-
-  <span >
-      <a href="/authors/diego-f.-aranha/">Diego F. Aranha</a></span>
-  </div>
   
   
 
@@ -866,7 +876,7 @@
 
 </div>
 
-    
+        
 
 
 
@@ -899,37 +909,54 @@
 
 
 
+
+
+
+
+
+  
   
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://www.researchgate.net/publication/292157215_Software_implementation_of_pairings_slides_for_ASCrypto_2015" target="_blank" rel="noopener">
-  <i class="fa fa-layer-group mr-1"></i> 
-    Slides
-</a>
-
-
-
-
-
-
-
-
- 
   
-  <a class="btn btn-outline-primary btn-page-header" href="/project/mobisec/">
-    <i class="fas fa-clipboard mr-1"></i> 
-    Project mobisec 
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/project/mobisec/#pubs" >
+    <i class="fas fa-folder-open mr-1"></i>
+    Publications
   </a>
-  
+
+
+
 
 
 
 </div>
 
 
-  
+    </div>
+    <div class="col-5">
+      
+      <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 300px; max-height: 168px;">
+        <div style="position: relative">
+          <img src="/project/mobisec/featured.png" alt="" class="featured-image">
+          
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
+
+
+
 
 
 
@@ -937,80 +964,37 @@
 
     
     <font size=3>
+    <i class="fas fa-university" title="Institution"></i> <a href="https://cs.au.dk" target="_blank" rel="noopener">Aarhus University</a><span class="middot-divider"></span>
+    
+    <i class="fas fa-clock" title="Time"></i> 2018-present<br>
+    <i class="fas fa-user-tag" title="My role"></i> Project Supervisor<br>
+    
     
     </font>
 
+
     <div class="article-style" style="margin-top: 2em">
-        
+      <p>The effort started with a security analysis of major Brazilian banking applications in the Android platform.
+It considered the SSL/TLS configuration (supported standards, algorithms, and other settings) at the server-side and public key certificate validation performed on the client-side. We discovered that six out of the seven major Brazilian banks did not appropriately protect against man-in-the-middle attacks, making it possible for an attacker in control of the communication infrastructure to collect authentication credentials and sensitive financial information.</p>
+<p>Vulnerabilities were disclosed to the interested parties in May 2015, following standard industry practice, and the findings received coverage in <a href="http://g1.globo.com/tecnologia/blog/seguranca-digital/post/apps-de-bancos-brasileiros-tem-deficiencias-de-seguranca-diz-pesquisa.html" target="_blank" rel="noopener">Brazilian news</a>. After that, the effort continued beyond the initial disclosure by monitoring security issues in these apps every six months, concluding that security posture oscillates quite a bit as mobile apps receive interface overhauls and new features frequently. These results produced a <a href="https://www.researchgate.net/publication/362721525_Security_Analysis_of_Brazilian_Mobile_Banking_Apps_on_Android" target="_blank" rel="noopener">technical report</a>, which was novel in conducting such an extensive security analysis over a significant amount of time (4 years).</p>
+<p>In the last few years, the project has been expanded and adapted the prototype approach for the courses taught in Network and Systems Security. The result is a quick training guide using industry-standard tools for students to conduct security analysis that considers aspects of software security, network communication, authentication mechanisms, and privacy. Around 50 Android applications (mainly from Denmark) have been analyzed using this methodology, which surfaced <a href="https://cs.au.dk/news-events/pages/2021/students-detect-security-breaches-in-popular-apps" target="_blank" rel="noopener">numerous vulnerabilities</a> in the insecure deployment of cryptography and API design, weak authentication workflows, and session management. In several cases, the vulnerabilities were critical enough to warrant extremely careful disclosure to the interested parties using secure means.</p>
+<p>A remarkably successful example that illustrates the effort was the <a href="%28https://cs.au.dk/news-events/news/show-news/artikel/computer-science-student-from-aarhus-university-helps-improve-the-security-in-mitid%29">detection of vulnerabilities</a> related to inadequate information disclosure, social engineering threats, and Denial of Service attacks during the deployment of the new <a href="https://www.mitid.dk/en-gb/" target="_blank" rel="noopener">MitID system</a>.</p>
+
     </div>
     
 
     
-       
-      <p class="pub-abstract">Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings.</p>
-    
-
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9">
-            Aug 23, 2015
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Event</div>
-          <div class="col-12 col-md-9">
-            <a href="https://latincrypt2015.cs.cinvestav.mx/" target="_blank" rel="noopener">
-            3rd Advanced School on Cryptology and Information Security in Latin America (ASCrypto 2015)
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Guadalajara, Mexico</div>
-          
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style">
-      
-    </div>
-
-    
 
 
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/active/">Active</a>
+  
+</div>
 
 
 
@@ -1040,8 +1024,356 @@
 
 
 
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        <h2 id="pubs" style="margin-bottom: 1em">Publications</h2> 
+
+        
+          
+            
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+  
+
+
+ 
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0"> 
+      <a href="/publication/cruza15/" >Análise de segurança em aplicativos bancários na plataforma Android</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/rafael-j.-cruz/">Rafael J. Cruz</a></span>, <span >
+      <a href="/authors/diego-f.-aranha/">Diego F. Aranha</a></span>
+  </div>
+  
+  
+
+   
+  <span class="pub-publication">
+    
+      <em>Workshop de Trabalhos de Iniciação Científica e de Graduação (WTICG), XV Simpósio Brasileiro de Segurança da Informação e Sistemas Computacionais (SBSeg)</em>
+    
+  </span>
+  
+
+  
+  <span class="middot-divider"></span> 
+  <span class="article-date">
+    
+    
+      
+    
+    2015
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links" style="margin-top: -0.2cm">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/wticg15b.pdf" target="_blank" rel="noopener noreferrer"> 
+  <i class="fa fa-file-pdf mr-1"></i> 
+  PDF
+</a>
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/cruza15/cite.bib">
+      <i class="fa fa-quote-left mr-1"></i> 
+      BibTeX 
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://sbseg2015.univali.br/" target="_blank" rel="noopener">
+    <i class="fa fa-trophy mr-1"></i>
+    Best student paper award
+  </a>
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ic.unicamp.br/conheca-o-ic/premiacoes/premiados/" target="_blank" rel="noopener">
+    <i class="fa fa-trophy mr-1"></i>
+     Best Undergrad Research
+  </a>
+
+
+
+ 
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/mobisec/">
+    <i class="fas fa-clipboard mr-1"></i> 
+    Project MobiSec 
+  </a>
+  
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
   </div>
 </div>
+
+          
+        
+      
+
+      
+      
+      
+        <h2 id="talks" style="margin-bottom: 1em">Talks</h2> 
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+ 
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0"> 
+      <a href="/talk/pitfalls-in-securing-danish-mobile-apps/" >Pitfalls in securing (Danish) mobile apps</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          May 5, 2022
+        </span>
+         
+        <span class="middot-divider"></span>
+        
+
+        <a href="https://ida.dk/arrangementer-og-kurser/konferencer/driving-it-aarhus" target="_blank" rel="noopener">
+        Driving IT Aarhus 2022
+        </a>
+        
+
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/diego-f.-aranha/">Diego F. Aranha</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links" style="margin-top: -0.2cm">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.researchgate.net/publication/362710772_Pitfalls_in_Securing_Danish_Mobile_Apps" target="_blank" rel="noopener">
+  <i class="fa fa-layer-group mr-1"></i> 
+    Slides
+</a>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://videos.ida.dk/media/Pitfalls&#43;in&#43;securing&#43;%28Danish%29&#43;mobile&#43;apps&#43;with&#43;Diego&#43;F.&#43;Aranha%2C&#43;Aarhus&#43;Universitet/1_gdtecuil/256930613" target="_blank" rel="noopener">
+  <i class="fa fa-film mr-1"></i> 
+  Video
+</a>
+
+
+
+
+
+
+ 
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/mobisec/">
+    <i class="fas fa-clipboard mr-1"></i> 
+    Project MobiSec 
+  </a>
+  
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+      
+    </div>
+  </div>
+</article>
   </div>
 
   <div class="page-footer">

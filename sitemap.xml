@@ -209,12 +209,6 @@
     <loc>/authors/tomas-kulik/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/evoting/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication-type/10/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -234,6 +228,9 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/cruzga20/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/evoting/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/emmanuel-fouotsa/</loc>
@@ -273,6 +270,9 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/otavio-oliveira-napoli/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/rafael-j.-cruz/</loc>
@@ -355,6 +355,15 @@
   </url><url>
     <loc>/publication/aranhap19/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/active/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/mobisec/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
@@ -623,6 +632,9 @@
     <loc>/publication/cruza16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project/e2ee/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/erick-nascimento/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -684,6 +696,9 @@
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/pereiraa16b/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/youinspect/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/software-implementation-of-bilinear-pairings/</loc>
@@ -993,7 +1008,5 @@
     <loc>/authors/admin/</loc>
   </url><url>
     <loc>/post/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>

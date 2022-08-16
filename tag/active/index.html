@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings." />
+  <meta name="description" content="[Associate Professor]" />
 
   
-  <link rel="alternate" hreflang="en-us" href="/talk/software-implementation-of-bilinear-pairings/" />
+  <link rel="alternate" hreflang="en-us" href="/tag/active/" />
 
   
 
@@ -306,6 +306,8 @@
   
 
   
+    <link rel="alternate" href="/tag/active/index.xml" type="application/rss+xml" title="Diego F. Aranha" />
+  
 
   
     <link rel="manifest" href="/index.webmanifest" />
@@ -314,7 +316,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="/talk/software-implementation-of-bilinear-pairings/" />
+  <link rel="canonical" href="/tag/active/" />
 
   
   
@@ -331,59 +333,19 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Diego F. Aranha" />
-  <meta property="og:url" content="/talk/software-implementation-of-bilinear-pairings/" />
-  <meta property="og:title" content="Software implementation of bilinear pairings | Diego F. Aranha" />
-  <meta property="og:description" content="Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings." /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="/tag/active/" />
+  <meta property="og:title" content="Active | Diego F. Aranha" />
+  <meta property="og:description" content="[Associate Professor]" /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta
-        property="article:published_time"
-        content="2017-01-01T00:00:00&#43;00:00"
-      />
+      <meta property="og:updated_time" content="2018-08-01T00:00:00&#43;00:00" />
     
-    <meta property="article:modified_time" content="2015-08-23T00:00:00&#43;00:00">
   
 
   
 
 
-
-  
-    
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Event",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "/talk/software-implementation-of-bilinear-pairings/"
-  },
-  "name": "Software implementation of bilinear pairings",
-  
-  "location": {
-    "@type": "Place",
-    "name": "Guadalajara, Mexico"
-  },
-  
-  
-  "startDate": "2015-08-23T00:00:00Z",
-  
-  
-  "performer": {
-    "@type": "Person",
-    "name": "Diego F. Aranha"
-  },
-  
-  "description": "Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings."
-}
-</script>
-
-  
 
   
 
@@ -393,11 +355,11 @@
 
 
 
-  <title>Software implementation of bilinear pairings | Diego F. Aranha</title>
+  <title>Active | Diego F. Aranha</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="68cb1b60e5c9c89834976b66cbf03b30" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
 
   
   
@@ -804,76 +766,11 @@
   </div>
 
   <div class="page-body">
-    <div class="pub">
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-<div class="article-container pt-3">
-  <h1>Software implementation of bilinear pairings</h1>
-
-  
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  <span >
-      <a href="/authors/diego-f.-aranha/">Diego F. Aranha</a></span>
-  </div>
-  
-  
-
-  
-
-  
-
-  
-
-  
-  
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
     
 
 
 
 
-<div class="btn-links mb-3">
-  
-  
 
 
 
@@ -884,163 +781,41 @@
 
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
   
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://www.researchgate.net/publication/292157215_Software_implementation_of_pairings_slides_for_ASCrypto_2015" target="_blank" rel="noopener">
-  <i class="fa fa-layer-group mr-1"></i> 
-    Slides
-</a>
+<div class="universal-wrapper pt-3">
+  <h1>Active</h1>
 
-
-
-
-
-
-
-
- 
   
-  <a class="btn btn-outline-primary btn-page-header" href="/project/mobisec/">
-    <i class="fas fa-clipboard mr-1"></i> 
-    Project mobisec 
-  </a>
-  
-
-
-
-</div>
-
 
   
 </div>
 
 
 
-  <div class="article-container">
+<div class="universal-wrapper">
+  
 
+  
+  
     
-    <font size=3>
     
-    </font>
-
-    <div class="article-style" style="margin-top: 2em">
+    
+    <div>
+      <h2><a href="/project/mobisec/" >Mobile Security</a></h2>
+      <div class="article-style">
         
-    </div>
-    
-
-    
-       
-      <p class="pub-abstract">Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings.</p>
-    
-
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9">
-            Aug 23, 2015
-          </div>
-        </div>
+          Security analysis of MitID and other mobile apps
+        
       </div>
-      <div class="col-md-1"></div>
     </div>
-    <div class="d-md-none space-below"></div>
+  
 
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Event</div>
-          <div class="col-12 col-md-9">
-            <a href="https://latincrypt2015.cs.cinvestav.mx/" target="_blank" rel="noopener">
-            3rd Advanced School on Cryptology and Information Security in Latin America (ASCrypto 2015)
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
+  
 
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Guadalajara, Mexico</div>
-          
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style">
-      
-    </div>
-
-    
-
-
-
-
-
-
-
-
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    
-  </ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
 </div>
   </div>
 

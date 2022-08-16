@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -15,9 +15,9 @@
     <item>
       <title>Electronic Voting</title>
       <link>/project/evoting/</link>
-      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/evoting/</guid>
-      <description>&lt;p&gt;A collection of results about the security analysis of the Brazilian voting machines, obtained after a 7-year saga to experimentally demonstrate the security problems with the electronic voting system adopted in Brazilian elections. They it informed the (still ongoing) nation-wide debate around the need for adopting paper trails for auditing elections in the country.&lt;/p&gt;
+      <description>&lt;p&gt;The results were obtained after a 7-year saga to experimentally demonstrate the security problems with the electronic voting system adopted in Brazilian elections, and later informed the (still ongoing) nation-wide debate around the need for adopting paper trails for auditing elections in the country.&lt;/p&gt;
 &lt;p&gt;Our results were extensively covered by national and international press, for example: &lt;a href=&#34;https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New York Times&lt;/a&gt;, &lt;a href=&#34;https://arstechnica.com/features/2016/11/internet-based-and-open-source-how-e-voting-is-working-around-the-globe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ars Technica&lt;/a&gt; (and a &lt;a href=&#34;https://arstechnica.com/tech-policy/2018/06/in-a-blow-to-e-voting-critics-brazil-suspends-use-of-all-paper-ballots/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;second&lt;/a&gt; time), &lt;a href=&#34;https://www.spiegel.de/netzwelt/netzpolitik/brasilien-wahl-angst-vor-der-elektronischen-wahlurne-a-1235518.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Der Spiegel&lt;/a&gt;, &lt;a href=&#34;https://www.economist.com/the-americas/2018/10/05/brazils-voters-worry-about-the-integrity-of-their-elections&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Economist&lt;/a&gt;, &lt;a href=&#34;https://www.zdnet.com/article/fraud-possible-in-brazils-e-voting-system/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZDNet&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=M3jMoh4zWjg&amp;amp;t=63s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBC Brazil&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=ZoaYECRGBn4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globo News&lt;/a&gt;, &lt;a href=&#34;http://redeglobo.globo.com/globocidadania/videos/t/edicoes/v/seguranca-eleitoral-parte-3/2160001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globo&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=xATaNCsre9Q&amp;amp;t=60s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBT&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=ZKy-ZobLdoA&amp;amp;t=56s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Record&lt;/a&gt;, &lt;a href=&#34;https://www1.folha.uol.com.br/fsp/tec/index-20120709.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Folha&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=qlPXj6HkxOo&amp;amp;t=548s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tecmundo&lt;/a&gt;, &lt;a href=&#34;https://g1.globo.com/tecnologia/blog/seguranca-digital/post/falha-na-urna-brasileira-reproduzia-fielmente-erro-de-1995-diz-professor.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G1&lt;/a&gt;, &lt;a href=&#34;http://noticias.terra.com.br/brasil/politica/eleicoes/urna-e-a-mais-defasada-diz-professor-que-violou-sistema-do-tse,dbeadf0a2566b310VgnCLD200000bbcceb0aRCRD.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra&lt;/a&gt;, &lt;a href=&#34;https://opiniao.estadao.com.br/noticias/geral,urnas-abertas-para-fraudes-imp-,933663&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estadão&lt;/a&gt;; among others.
 They were also part of the online course &lt;a href=&#34;https://www.coursera.org/course/digitaldemocracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securing Digital Democracy&lt;/a&gt;, by &lt;a href=&#34;https://jhalderm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J. Alex Halderman&lt;/a&gt;, where the situation in Brazil was briefly discussed.&lt;/p&gt;
 &lt;p&gt;If you understand Portuguese, the results were discussed at multiple official public hearings in the Brazilian Congress (recorded below):&lt;/p&gt;
@@ -28,11 +28,52 @@ They were also part of the online course &lt;a href=&#34;https://www.coursera.or
 &lt;/ul&gt;
 &lt;p&gt;I also gave many talks in academic and industry events around the country:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=in6JTwNGZCo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of São Paulo&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=IHrKjyPhm-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Campinas&lt;/a&gt; and several other universities (UnB, USP São Carlos, UFMG, CAPES, FGV-Rio)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=in6JTwNGZCo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of São Paulo&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=IHrKjyPhm-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Campinas&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=4_706EoJMjU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USP São Carlos&lt;/a&gt;, and several other universities (UnB, UFMG, CAPES, FGV-Rio)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0bAuf4osADg&amp;amp;t=2203s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mind the Sec 2018&lt;/a&gt; Conference, followed by a &lt;a href=&#34;https://www.youtube.com/watch?v=QuR0oCJSr0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;debate&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4D0oCyfXfxY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XV International Free Software Forum&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;You can find other publications and talks below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile Security</title>
+      <link>/project/mobisec/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/project/mobisec/</guid>
+      <description>&lt;p&gt;The effort started with a security analysis of major Brazilian banking applications in the Android platform.
+It considered the SSL/TLS configuration (supported standards, algorithms, and other settings) at the server-side and public key certificate validation performed on the client-side. We discovered that six out of the seven major Brazilian banks did not appropriately protect against man-in-the-middle attacks, making it possible for an attacker in control of the communication infrastructure to collect authentication credentials and sensitive financial information.&lt;/p&gt;
+&lt;p&gt;Vulnerabilities were disclosed to the interested parties in May 2015, following standard industry practice, and the findings received coverage in &lt;a href=&#34;http://g1.globo.com/tecnologia/blog/seguranca-digital/post/apps-de-bancos-brasileiros-tem-deficiencias-de-seguranca-diz-pesquisa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brazilian news&lt;/a&gt;. After that, the effort continued beyond the initial disclosure by monitoring security issues in these apps every six months, concluding that security posture oscillates quite a bit as mobile apps receive interface overhauls and new features frequently. These results produced a &lt;a href=&#34;https://www.researchgate.net/publication/362721525_Security_Analysis_of_Brazilian_Mobile_Banking_Apps_on_Android&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;technical report&lt;/a&gt;, which was novel in conducting such an extensive security analysis over a significant amount of time (4 years).&lt;/p&gt;
+&lt;p&gt;In the last few years, the project has been expanded and adapted the prototype approach for the courses taught in Network and Systems Security. The result is a quick training guide using industry-standard tools for students to conduct security analysis that considers aspects of software security, network communication, authentication mechanisms, and privacy. Around 50 Android applications (mainly from Denmark) have been analyzed using this methodology, which surfaced &lt;a href=&#34;https://cs.au.dk/news-events/pages/2021/students-detect-security-breaches-in-popular-apps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;numerous vulnerabilities&lt;/a&gt; in the insecure deployment of cryptography and API design, weak authentication workflows, and session management. In several cases, the vulnerabilities were critical enough to warrant extremely careful disclosure to the interested parties using secure means.&lt;/p&gt;
+&lt;p&gt;A remarkably successful example that illustrates the effort was the &lt;a href=&#34;%28https://cs.au.dk/news-events/news/show-news/artikel/computer-science-student-from-aarhus-university-helps-improve-the-security-in-mitid%29&#34;&gt;detection of vulnerabilities&lt;/a&gt; related to inadequate information disclosure, social engineering threats, and Denial of Service attacks during the deployment of the new &lt;a href=&#34;https://www.mitid.dk/en-gb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MitID system&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Encryption Policy</title>
+      <link>/project/e2ee/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/e2ee/</guid>
+      <description>&lt;p&gt;I was one of a few experts who were approved to participate directly in the encryption policy debate at the Brazilian Supreme Court. To summarize a long story, encrypted messaging applications ended up blocked in the country after the affiliated companies could not fulfill court orders requiring content of communication in ongoing criminal investigations. The matter escalated to the Supreme Court, which decided to conduct a public hearing, where all stakeholders in the debate manifested their positions.&lt;/p&gt;
+&lt;p&gt;I was part of the group of academics representing society who vehemently defended the importance of strong cryptography for citizens to communicate under the presence of massive surveillance systems. The effort has been positive in the sense that the two votes already published by Supreme Court Justices were in favor of strong encryption, reverting the judiciary’s initial position. In &lt;a href=&#34;https://www.conjur.com.br/dl/fachin-suspensao-whatsapp-decisao.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;one of these votes&lt;/a&gt;, my arguments are explicitly mentioned as influential to the decision. A total of 9 more votes should be cast in the upcoming years, and this result is expected to highly influence the encryption policy debate in Latin America.&lt;/p&gt;
+&lt;p&gt;During the course of the effort, I participated in a series of debates (in Portuguese):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3_5UwEDozaI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Public Law&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DwdhMNh-w1A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mind the Sec 2017&lt;/a&gt; Conference&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YqW5p0nh8qQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Institute for Technology &amp;amp; Society of Rio&lt;/a&gt;, followed by an &lt;a href=&#34;https://www.youtube.com/watch?v=7cjUBHW6QKM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qN9w_BuKfCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supreme Court of Brazil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>YouInspect</title>
+      <link>/project/youinspect/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/youinspect/</guid>
+      <description>&lt;p&gt;Despite the high academic impact of our security analysis of the Brazilian voting machines, the effort produced no immediate policy change by the electoral authority. This motivated an experiment in 2014 with a simple auditing approach for the transmission of election results: crowdsourced verification of electronic results based on a distributed collection of poll tape pictures.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;YouInspect&lt;/em&gt; project, which was awarded the &lt;a href=&#34;https://www.innovatorsunder35.com/the-list/diego-aranha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Innovators Under 35 Brazil&lt;/a&gt; prize by &lt;a href=&#34;https://www.technologyreview.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT Technology Review&lt;/a&gt;, was funded through a crowdfunding campaign with 1137 donators (a total of USD 30,000) and raised a new round of discussions around the security of the voting system. The project increased the possibilities for voter participation in auditing the system and verified the correct transmission of a sample of 4.1% of the votes cast (or 4.644.385 votes) in the 2014 election. As a result, the electoral authority &lt;a href=&#34;https://www.tse.jus.br/eleicoes/eleicoes-2020/aplicativo-boletim-na-mao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;adopted the approach&lt;/a&gt; in 2016 to facilitate verification of transmission of results by introducing machine-readable QR codes in the poll tapes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www2.technologyreview.com/tr35brazil/images/logo-tr35-br.png&#34; alt=&#34;MIT TR35 logo&#34; title=&#34;MIT TR35 logo&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
