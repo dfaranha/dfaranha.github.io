@@ -329,30 +329,6 @@
     </item>
     
     <item>
-      <title>Electronic Voting</title>
-      <link>/project/evoting/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/project/evoting/</guid>
-      <description>&lt;p&gt;The results were obtained after a 7-year saga to experimentally demonstrate the security problems with the electronic voting system adopted in Brazilian elections, and later informed the (still ongoing) nation-wide debate around the need for adopting paper trails for auditing elections in the country.&lt;/p&gt;
-&lt;p&gt;Our results were extensively covered by national and international press, for example: &lt;a href=&#34;https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New York Times&lt;/a&gt;, &lt;a href=&#34;https://arstechnica.com/features/2016/11/internet-based-and-open-source-how-e-voting-is-working-around-the-globe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ars Technica&lt;/a&gt; (and a &lt;a href=&#34;https://arstechnica.com/tech-policy/2018/06/in-a-blow-to-e-voting-critics-brazil-suspends-use-of-all-paper-ballots/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;second&lt;/a&gt; time), &lt;a href=&#34;https://www.spiegel.de/netzwelt/netzpolitik/brasilien-wahl-angst-vor-der-elektronischen-wahlurne-a-1235518.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Der Spiegel&lt;/a&gt;, &lt;a href=&#34;https://www.economist.com/the-americas/2018/10/05/brazils-voters-worry-about-the-integrity-of-their-elections&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Economist&lt;/a&gt;, &lt;a href=&#34;https://www.zdnet.com/article/fraud-possible-in-brazils-e-voting-system/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZDNet&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=M3jMoh4zWjg&amp;amp;t=63s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBC Brazil&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=ZoaYECRGBn4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globo News&lt;/a&gt;, &lt;a href=&#34;http://redeglobo.globo.com/globocidadania/videos/t/edicoes/v/seguranca-eleitoral-parte-3/2160001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globo&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=xATaNCsre9Q&amp;amp;t=60s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBT&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=ZKy-ZobLdoA&amp;amp;t=56s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Record&lt;/a&gt;, &lt;a href=&#34;https://www1.folha.uol.com.br/fsp/tec/index-20120709.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Folha&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=qlPXj6HkxOo&amp;amp;t=548s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tecmundo&lt;/a&gt;, &lt;a href=&#34;https://g1.globo.com/tecnologia/blog/seguranca-digital/post/falha-na-urna-brasileira-reproduzia-fielmente-erro-de-1995-diz-professor.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G1&lt;/a&gt;, &lt;a href=&#34;http://noticias.terra.com.br/brasil/politica/eleicoes/urna-e-a-mais-defasada-diz-professor-que-violou-sistema-do-tse,dbeadf0a2566b310VgnCLD200000bbcceb0aRCRD.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra&lt;/a&gt;, &lt;a href=&#34;https://opiniao.estadao.com.br/noticias/geral,urnas-abertas-para-fraudes-imp-,933663&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estadão&lt;/a&gt;; among others.
-They were also part of the online course &lt;a href=&#34;https://www.coursera.org/course/digitaldemocracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securing Digital Democracy&lt;/a&gt;, by &lt;a href=&#34;https://jhalderm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J. Alex Halderman&lt;/a&gt;, where the situation in Brazil was briefly discussed.&lt;/p&gt;
-&lt;p&gt;If you understand Portuguese, the results were discussed at multiple official public hearings in the Brazilian Congress (recorded below):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=XiMga6Cn8AM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Constitution and Justice Commission&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=5B7ZiBWNJdg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Federal Senate&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=PF9_xv_FfF0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chamber of Deputies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I also gave many talks in academic and industry events around the country:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=in6JTwNGZCo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of São Paulo&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=IHrKjyPhm-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Campinas&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=4_706EoJMjU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USP São Carlos&lt;/a&gt;, and several other universities (UnB, UFMG, CAPES, FGV-Rio)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0bAuf4osADg&amp;amp;t=2203s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mind the Sec 2018&lt;/a&gt; Conference, followed by a &lt;a href=&#34;https://www.youtube.com/watch?v=QuR0oCJSr0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;debate&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4D0oCyfXfxY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XV International Free Software Forum&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can find other publications and talks below.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Evaluation and Mitigation of Timing Side-Channel Leakages on Multiple-Target Dynamic Binary Translators</title>
       <link>/publication/napolirab20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -374,6 +350,15 @@ They were also part of the online course &lt;a href=&#34;https://www.coursera.or
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/cardellaf20/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Residue Number Systems for Cryptography</title>
+      <link>/project/renais/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/renais/</guid>
+      <description>&lt;p&gt;Modular multiplication is crucial nowadays to the security of Internet connections. It is used to implement conventional public key cryptography for protecting the integrity and confidentiality of electronic communication, and bleeding-edge algorithms securing blockchains and cryptocurrencies. While most of these implementations employ Montgomery modular multiplication as the fundamental building block, alternative representation that favor parallel execution have been overlooked. One such candidate is Residue Number Systems (RNS), which break down large integers into many small residues that can be processed in parallel. RNS arithmetic has demonstrated superior performance in a few niche applications targeting very specific platforms, and it is very intriguing why these results do not translate to commodity processors. This project deals with the challenges of discovering new algorithms and implementation techniques to accelerate RNS arithmetic of cryptographic interest, with a sharp focus on developing formally verified implementations for correctness and consequently security.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -417,6 +402,31 @@ They were also part of the online course &lt;a href=&#34;https://www.coursera.or
     </item>
     
     <item>
+      <title>Mobile Security</title>
+      <link>/project/mobisec/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/mobisec/</guid>
+      <description>&lt;p&gt;The effort started with a security analysis of major Brazilian banking applications in the Android platform.
+It considered the SSL/TLS configuration (supported standards, algorithms, and other settings) at the server-side and public key certificate validation performed on the client-side. We discovered that six out of the seven major Brazilian banks did not appropriately protect against man-in-the-middle attacks, making it possible for an attacker in control of the communication infrastructure to collect authentication credentials and sensitive financial information.&lt;/p&gt;
+&lt;p&gt;Vulnerabilities were disclosed to the interested parties in May 2015, following standard industry practice, and the findings received coverage in &lt;a href=&#34;http://g1.globo.com/tecnologia/blog/seguranca-digital/post/apps-de-bancos-brasileiros-tem-deficiencias-de-seguranca-diz-pesquisa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brazilian news&lt;/a&gt;. After that, the effort continued beyond the initial disclosure by monitoring security issues in these apps every six months, concluding that security posture oscillates quite a bit as mobile apps receive interface overhauls and new features frequently. These results produced a &lt;a href=&#34;https://www.researchgate.net/publication/362721525_Security_Analysis_of_Brazilian_Mobile_Banking_Apps_on_Android&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;technical report&lt;/a&gt;, which was novel in conducting such an extensive security analysis over a significant amount of time (4 years).&lt;/p&gt;
+&lt;p&gt;In the last few years, the project has been expanded and adapted the prototype approach for the courses taught in Network and Systems Security. The result is a quick training guide using industry-standard tools for students to conduct security analysis that considers aspects of software security, network communication, authentication mechanisms, and privacy. Around 50 Android applications (mainly from Denmark) have been analyzed using this methodology, which surfaced &lt;a href=&#34;https://cs.au.dk/news-events/pages/2021/students-detect-security-breaches-in-popular-apps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;numerous vulnerabilities&lt;/a&gt; in the insecure deployment of cryptography and API design, weak authentication workflows, and session management. In several cases, the vulnerabilities were critical enough to warrant extremely careful disclosure to the interested parties using secure means.&lt;/p&gt;
+&lt;p&gt;A remarkably successful example that illustrates the effort was the &lt;a href=&#34;%28https://cs.au.dk/news-events/news/show-news/artikel/computer-science-student-from-aarhus-university-helps-improve-the-security-in-mitid%29&#34;&gt;detection of vulnerabilities&lt;/a&gt; related to inadequate information disclosure, social engineering threats, and Denial of Service attacks during the deployment of the new &lt;a href=&#34;https://www.mitid.dk/en-gb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MitID system&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verifiable Cryptographic Software</title>
+      <link>/project/verics/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/project/verics/</guid>
+      <description>&lt;p&gt;Zero-knowledge proofs are integral for deploying privacy-preserving cryptocurrencies and other blockchain applications, as they represent a fundamental building block for proving statements about confidential data.&lt;/p&gt;
+&lt;p&gt;The most popular framework for such proofs is based on cryptographic pairings defined over elliptic curves, where pairing-based zero-knowledge Succint Non-Interactive Arguments of Knowledge (zk-SNARKs) underlie private transactions.&lt;/p&gt;
+&lt;p&gt;There has been substantial progress in the past decade towards selecting parameters and implementing pairing-based cryptography efficiently in software. However, current record-setting implementations rely on hand-optimized architecture-specific Assembly code for the underlying field arithmetic and a great deal of manual tuning to unlock the best performance across a range of architectures. This introduces low-level code which is both hard to audit and to verify as correct, and a number of cryptographic libraries have suffered with simple bugs in their arithmetic backend layers as a direct consequence.&lt;/p&gt;
+&lt;p&gt;The project&amp;rsquo;s main goal is then to investigate techniques to develop a formally verified efficient software library for pairing-based cryptography, as means to support current blockchain projects relying on zero-knowledge proofs. This requires extending current frameworks for generation of correct-by-design cryptographic software to efficiently handle arithmetic in extension fields and elliptic curves, among others.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Can blockchains make voting more secure?</title>
       <link>/talk/can-blockchains-make-voting-more-secure/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
@@ -457,6 +467,30 @@ They were also part of the online course &lt;a href=&#34;https://www.coursera.or
     </item>
     
     <item>
+      <title>Electronic Voting</title>
+      <link>/project/evoting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/project/evoting/</guid>
+      <description>&lt;p&gt;The results were obtained after a 7-year saga to experimentally demonstrate the security problems with the electronic voting system adopted in Brazilian elections, and later informed the (still ongoing) nation-wide debate around the need for adopting paper trails for auditing elections in the country.&lt;/p&gt;
+&lt;p&gt;Our results were extensively covered by national and international press, for example: &lt;a href=&#34;https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New York Times&lt;/a&gt;, &lt;a href=&#34;https://arstechnica.com/features/2016/11/internet-based-and-open-source-how-e-voting-is-working-around-the-globe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ars Technica&lt;/a&gt; (and a &lt;a href=&#34;https://arstechnica.com/tech-policy/2018/06/in-a-blow-to-e-voting-critics-brazil-suspends-use-of-all-paper-ballots/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;second&lt;/a&gt; time), &lt;a href=&#34;https://www.spiegel.de/netzwelt/netzpolitik/brasilien-wahl-angst-vor-der-elektronischen-wahlurne-a-1235518.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Der Spiegel&lt;/a&gt;, &lt;a href=&#34;https://www.economist.com/the-americas/2018/10/05/brazils-voters-worry-about-the-integrity-of-their-elections&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Economist&lt;/a&gt;, &lt;a href=&#34;https://www.zdnet.com/article/fraud-possible-in-brazils-e-voting-system/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZDNet&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=M3jMoh4zWjg&amp;amp;t=63s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBC Brazil&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=ZoaYECRGBn4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globo News&lt;/a&gt;, &lt;a href=&#34;http://redeglobo.globo.com/globocidadania/videos/t/edicoes/v/seguranca-eleitoral-parte-3/2160001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globo&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=xATaNCsre9Q&amp;amp;t=60s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBT&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=ZKy-ZobLdoA&amp;amp;t=56s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Record&lt;/a&gt;, &lt;a href=&#34;https://www1.folha.uol.com.br/fsp/tec/index-20120709.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Folha&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=qlPXj6HkxOo&amp;amp;t=548s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tecmundo&lt;/a&gt;, &lt;a href=&#34;https://g1.globo.com/tecnologia/blog/seguranca-digital/post/falha-na-urna-brasileira-reproduzia-fielmente-erro-de-1995-diz-professor.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G1&lt;/a&gt;, &lt;a href=&#34;http://noticias.terra.com.br/brasil/politica/eleicoes/urna-e-a-mais-defasada-diz-professor-que-violou-sistema-do-tse,dbeadf0a2566b310VgnCLD200000bbcceb0aRCRD.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra&lt;/a&gt;, &lt;a href=&#34;https://opiniao.estadao.com.br/noticias/geral,urnas-abertas-para-fraudes-imp-,933663&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estadão&lt;/a&gt;; among others.
+They were also part of the online course &lt;a href=&#34;https://www.coursera.org/course/digitaldemocracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securing Digital Democracy&lt;/a&gt;, by &lt;a href=&#34;https://jhalderm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J. Alex Halderman&lt;/a&gt;, where the situation in Brazil was briefly discussed.&lt;/p&gt;
+&lt;p&gt;If you understand Portuguese, the results were discussed at multiple official public hearings in the Brazilian Congress (recorded below):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=XiMga6Cn8AM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Constitution and Justice Commission&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=5B7ZiBWNJdg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Federal Senate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=PF9_xv_FfF0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chamber of Deputies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also gave many talks in academic and industry events around the country:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=in6JTwNGZCo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of São Paulo&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=IHrKjyPhm-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Campinas&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=4_706EoJMjU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USP São Carlos&lt;/a&gt;, and several other universities (UnB, UFMG, CAPES, FGV-Rio)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0bAuf4osADg&amp;amp;t=2203s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mind the Sec 2018&lt;/a&gt; Conference, followed by a &lt;a href=&#34;https://www.youtube.com/watch?v=QuR0oCJSr0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;debate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4D0oCyfXfxY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XV International Free Software Forum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can find other publications and talks below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Introducing Arithmetic Failures to Accelerate QC-MDPC Code-Based Cryptography</title>
       <link>/publication/guimaraesba19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -486,19 +520,6 @@ They were also part of the online course &lt;a href=&#34;https://www.coursera.or
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/aranhap19/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Mobile Security</title>
-      <link>/project/mobisec/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/project/mobisec/</guid>
-      <description>&lt;p&gt;The effort started with a security analysis of major Brazilian banking applications in the Android platform.
-It considered the SSL/TLS configuration (supported standards, algorithms, and other settings) at the server-side and public key certificate validation performed on the client-side. We discovered that six out of the seven major Brazilian banks did not appropriately protect against man-in-the-middle attacks, making it possible for an attacker in control of the communication infrastructure to collect authentication credentials and sensitive financial information.&lt;/p&gt;
-&lt;p&gt;Vulnerabilities were disclosed to the interested parties in May 2015, following standard industry practice, and the findings received coverage in &lt;a href=&#34;http://g1.globo.com/tecnologia/blog/seguranca-digital/post/apps-de-bancos-brasileiros-tem-deficiencias-de-seguranca-diz-pesquisa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brazilian news&lt;/a&gt;. After that, the effort continued beyond the initial disclosure by monitoring security issues in these apps every six months, concluding that security posture oscillates quite a bit as mobile apps receive interface overhauls and new features frequently. These results produced a &lt;a href=&#34;https://www.researchgate.net/publication/362721525_Security_Analysis_of_Brazilian_Mobile_Banking_Apps_on_Android&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;technical report&lt;/a&gt;, which was novel in conducting such an extensive security analysis over a significant amount of time (4 years).&lt;/p&gt;
-&lt;p&gt;In the last few years, the project has been expanded and adapted the prototype approach for the courses taught in Network and Systems Security. The result is a quick training guide using industry-standard tools for students to conduct security analysis that considers aspects of software security, network communication, authentication mechanisms, and privacy. Around 50 Android applications (mainly from Denmark) have been analyzed using this methodology, which surfaced &lt;a href=&#34;https://cs.au.dk/news-events/pages/2021/students-detect-security-breaches-in-popular-apps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;numerous vulnerabilities&lt;/a&gt; in the insecure deployment of cryptography and API design, weak authentication workflows, and session management. In several cases, the vulnerabilities were critical enough to warrant extremely careful disclosure to the interested parties using secure means.&lt;/p&gt;
-&lt;p&gt;A remarkably successful example that illustrates the effort was the &lt;a href=&#34;%28https://cs.au.dk/news-events/news/show-news/artikel/computer-science-student-from-aarhus-university-helps-improve-the-security-in-mitid%29&#34;&gt;detection of vulnerabilities&lt;/a&gt; related to inadequate information disclosure, social engineering threats, and Denial of Service attacks during the deployment of the new &lt;a href=&#34;https://www.mitid.dk/en-gb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MitID system&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -948,7 +969,7 @@ The materials produced by the project are available on &lt;a href=&#34;https://w
     </item>
     
     <item>
-      <title>Private Machine Learning</title>
+      <title>Private ML</title>
       <link>/project/lara/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/project/lara/</guid>
@@ -965,20 +986,11 @@ The materials produced by the project are available on &lt;a href=&#34;https://w
     </item>
     
     <item>
-      <title>PUFs</title>
+      <title>PUFs for SoCs</title>
       <link>/project/pufs/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/project/pufs/</guid>
       <description>&lt;p&gt;The security of current cryptographic methods is based on the infeasibility of solving certain computational problems. Basically, a cryptosystem is as secure as the underlying instance of a computational problem considered to be ?difficult?. However, in most cases, this implies higher power consumption for more secure cryptosystems, as they need to perform calculations on increasingly complicated mathematical objects as their security increases. Unfortunately, many of those current cryptographic solutions may be impractical in energy-constrained devices such as Systems on Chip (SoC). The goal of this project is to investigate new energy efficient cryptographic techniques based on Physical Unclonable Functions (PUFs). Through the study of such methods we intend to develop novel frameworks for cheap energy efficient cryptography fully integrated with particular aspects of SoC devices. We focus on applications that are widely required both for personal services and in the financial/e-commerce markets. We propose the study of Physical Unclonable Functions as an alternative to computationally hard problems commonly used as basis for cryptographic protocols. PUFs are functions uniquely determined by the very physical properties of a given electronic device, meaning that they can?t be cloned since the exact physical structures of a device cannot be recreated. In this project, we propose to develop specific protocols for user authentication and key exchange based on PUFs. Such protocols are of great importance for e-banking, e-commerce and secure transactions applications, which are rapidly expanding markets in Brazil.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Residue Number Systems for Cryptography</title>
-      <link>/project/renais/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/project/renais/</guid>
-      <description>&lt;p&gt;Modular multiplication is crucial nowadays to the security of Internet connections. It is used to implement conventional public key cryptography for protecting the integrity and confidentiality of electronic communication, and bleeding-edge algorithms securing blockchains and cryptocurrencies. While most of these implementations employ Montgomery modular multiplication as the fundamental building block, alternative representation that favor parallel execution have been overlooked. One such candidate is Residue Number Systems (RNS), which break down large integers into many small residues that can be processed in parallel. RNS arithmetic has demonstrated superior performance in a few niche applications targeting very specific platforms, and it is very intriguing why these results do not translate to commodity processors. This project deals with the challenges of discovering new algorithms and implementation techniques to accelerate RNS arithmetic of cryptographic interest, with a sharp focus on developing formally verified implementations for correctness and consequently security.&lt;/p&gt;
 </description>
     </item>
     
@@ -1013,18 +1025,6 @@ The materials produced by the project are available on &lt;a href=&#34;https://w
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/pereiraa16b/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Verifiable Cryptographic Software</title>
-      <link>/project/verics/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/project/verics/</guid>
-      <description>&lt;p&gt;Zero-knowledge proofs are integral for deploying privacy-preserving cryptocurrencies and other blockchain applications, as they represent a fundamental building block for proving statements about confidential data.&lt;/p&gt;
-&lt;p&gt;The most popular framework for such proofs is based on cryptographic pairings defined over elliptic curves, where pairing-based zero-knowledge Succint Non-Interactive Arguments of Knowledge (zk-SNARKs) underlie private transactions.&lt;/p&gt;
-&lt;p&gt;There has been substantial progress in the past decade towards selecting parameters and implementing pairing-based cryptography efficiently in software. However, current record-setting implementations rely on hand-optimized architecture-specific Assembly code for the underlying field arithmetic and a great deal of manual tuning to unlock the best performance across a range of architectures. This introduces low-level code which is both hard to audit and to verify as correct, and a number of cryptographic libraries have suffered with simple bugs in their arithmetic backend layers as a direct consequence.&lt;/p&gt;
-&lt;p&gt;The project&amp;rsquo;s main goal is then to investigate techniques to develop a formally verified efficient software library for pairing-based cryptography, as means to support current blockchain projects relying on zero-knowledge proofs. This requires extending current frameworks for generation of correct-by-design cryptographic software to efficiently handle arithmetic in extension fields and elliptic curves, among others.&lt;/p&gt;
-</description>
     </item>
     
     <item>

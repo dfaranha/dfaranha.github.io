@@ -5,7 +5,7 @@
     <link>/tag/active/</link>
       <atom:link href="/tag/active/index.xml" rel="self" type="application/rss+xml" />
     <description>Active</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Active</title>
@@ -13,9 +13,18 @@
     </image>
     
     <item>
+      <title>Residue Number Systems for Cryptography</title>
+      <link>/project/renais/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/renais/</guid>
+      <description>&lt;p&gt;Modular multiplication is crucial nowadays to the security of Internet connections. It is used to implement conventional public key cryptography for protecting the integrity and confidentiality of electronic communication, and bleeding-edge algorithms securing blockchains and cryptocurrencies. While most of these implementations employ Montgomery modular multiplication as the fundamental building block, alternative representation that favor parallel execution have been overlooked. One such candidate is Residue Number Systems (RNS), which break down large integers into many small residues that can be processed in parallel. RNS arithmetic has demonstrated superior performance in a few niche applications targeting very specific platforms, and it is very intriguing why these results do not translate to commodity processors. This project deals with the challenges of discovering new algorithms and implementation techniques to accelerate RNS arithmetic of cryptographic interest, with a sharp focus on developing formally verified implementations for correctness and consequently security.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mobile Security</title>
       <link>/project/mobisec/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/project/mobisec/</guid>
       <description>&lt;p&gt;The effort started with a security analysis of major Brazilian banking applications in the Android platform.
 It considered the SSL/TLS configuration (supported standards, algorithms, and other settings) at the server-side and public key certificate validation performed on the client-side. We discovered that six out of the seven major Brazilian banks did not appropriately protect against man-in-the-middle attacks, making it possible for an attacker in control of the communication infrastructure to collect authentication credentials and sensitive financial information.&lt;/p&gt;
@@ -26,18 +35,9 @@ It considered the SSL/TLS configuration (supported standards, algorithms, and ot
     </item>
     
     <item>
-      <title>Residue Number Systems for Cryptography</title>
-      <link>/project/renais/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/project/renais/</guid>
-      <description>&lt;p&gt;Modular multiplication is crucial nowadays to the security of Internet connections. It is used to implement conventional public key cryptography for protecting the integrity and confidentiality of electronic communication, and bleeding-edge algorithms securing blockchains and cryptocurrencies. While most of these implementations employ Montgomery modular multiplication as the fundamental building block, alternative representation that favor parallel execution have been overlooked. One such candidate is Residue Number Systems (RNS), which break down large integers into many small residues that can be processed in parallel. RNS arithmetic has demonstrated superior performance in a few niche applications targeting very specific platforms, and it is very intriguing why these results do not translate to commodity processors. This project deals with the challenges of discovering new algorithms and implementation techniques to accelerate RNS arithmetic of cryptographic interest, with a sharp focus on developing formally verified implementations for correctness and consequently security.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Verifiable Cryptographic Software</title>
       <link>/project/verics/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/project/verics/</guid>
       <description>&lt;p&gt;Zero-knowledge proofs are integral for deploying privacy-preserving cryptocurrencies and other blockchain applications, as they represent a fundamental building block for proving statements about confidential data.&lt;/p&gt;
 &lt;p&gt;The most popular framework for such proofs is based on cryptographic pairings defined over elliptic curves, where pairing-based zero-knowledge Succint Non-Interactive Arguments of Knowledge (zk-SNARKs) underlie private transactions.&lt;/p&gt;

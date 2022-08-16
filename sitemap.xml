@@ -212,6 +212,9 @@
     <loc>/publication-type/10/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/active/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/amparo-fuster-sabater/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -228,9 +231,6 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/cruzga20/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/evoting/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/emmanuel-fouotsa/</loc>
@@ -281,6 +281,9 @@
     <loc>/publication/cardellaf20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project/renais/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/sara-d.-cardell/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -291,6 +294,9 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/feheryalhv20/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/kulikba20/</loc>
@@ -304,6 +310,12 @@
   </url><url>
     <loc>/talk/security-and-privacy-challenges-in-modern-embedded-systems/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/mobisec/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/verics/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/can-blockchains-make-voting-more-secure/</loc>
     <lastmod>2019-04-10T00:00:00+00:00</lastmod>
@@ -341,6 +353,9 @@
     <loc>/authors/eduardo-alchieri/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project/evoting/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/guimaraesba19/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -355,15 +370,6 @@
   </url><url>
     <loc>/publication/aranhap19/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/active/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/mobisec/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
@@ -701,9 +707,6 @@
     <loc>/project/pufs/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/renais/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/project/secexec/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -714,9 +717,6 @@
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/pereiraa16b/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/verics/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/youinspect/</loc>
