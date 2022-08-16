@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Driving IT Aarhus 2022" />
+  <meta name="description" content="Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings." />
 
   
-  <link rel="alternate" hreflang="en-us" href="/talk/aranha22ida/" />
+  <link rel="alternate" hreflang="en-us" href="/talk/software-implementation-of-bilinear-pairings/" />
 
   
 
@@ -314,7 +314,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="/talk/aranha22ida/" />
+  <link rel="canonical" href="/talk/software-implementation-of-bilinear-pairings/" />
 
   
   
@@ -331,9 +331,9 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Diego F. Aranha" />
-  <meta property="og:url" content="/talk/aranha22ida/" />
-  <meta property="og:title" content="Pitfalls in securing (Danish) mobile apps | Diego F. Aranha" />
-  <meta property="og:description" content="Driving IT Aarhus 2022" /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="/talk/software-implementation-of-bilinear-pairings/" />
+  <meta property="og:title" content="Software implementation of bilinear pairings | Diego F. Aranha" />
+  <meta property="og:description" content="Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings." /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -342,7 +342,7 @@
         content="2017-01-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-05-05T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2015-08-23T00:00:00&#43;00:00">
   
 
   
@@ -350,20 +350,54 @@
 
 
   
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/talk/software-implementation-of-bilinear-pairings/"
+  },
+  "name": "Software implementation of bilinear pairings",
+  
+  "location": {
+    "@type": "Place",
+    "name": "Guadalajara, Mexico"
+  },
+  
+  
+  "startDate": "2015-08-23T00:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Diego F. Aranha"
+  },
+  
+  "description": "Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings."
+}
+</script>
 
   
 
   
 
+  
 
 
 
 
-  <title>Pitfalls in securing (Danish) mobile apps | Diego F. Aranha</title>
+
+  <title>Software implementation of bilinear pairings | Diego F. Aranha</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="94a5a91d9ca7176527165710b443f434" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="68cb1b60e5c9c89834976b66cbf03b30" >
 
   
   
@@ -791,7 +825,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Pitfalls in securing (Danish) mobile apps</h1>
+  <h1>Software implementation of bilinear pairings</h1>
 
   
 
@@ -816,15 +850,6 @@
 
   
 
-  
-  <span class="middot-divider"></span> 
-  <span class="article-date">
-    
-    
-      
-    
-    May 5, 2022
-  </span>
   
 
   
@@ -878,21 +903,12 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://www.researchgate.net/publication/362710772_Pitfalls_in_Securing_Danish_Mobile_Apps" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://www.researchgate.net/publication/292157215_Software_implementation_of_pairings_slides_for_ASCrypto_2015" target="_blank" rel="noopener">
   <i class="fa fa-layer-group mr-1"></i> 
     Slides
 </a>
 
 
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://videos.ida.dk/media/Pitfalls&#43;in&#43;securing&#43;%28Danish%29&#43;mobile&#43;apps&#43;with&#43;Diego&#43;F.&#43;Aranha%2C&#43;Aarhus&#43;Universitet/1_gdtecuil/256930613" target="_blank" rel="noopener">
-  <i class="fa fa-film mr-1"></i> 
-  Video
-</a>
 
 
 
@@ -928,7 +944,7 @@
 
     
        
-      <p class="pub-abstract">In this talk we will discuss the main pitfalls when deploying security mechanisms in mobile applications, as informed from experience in the field. The main issues include session management, authentication workflows and secure API design. The results are based on a 3-year effort at Aarhus University to perform preliminary security analysis of around 50 applications as part of the final project in the Network/Systems Security courses.</p>
+      <p class="pub-abstract">Pairings have been receiving significant research interest as a building block for cryptographers, but their efficiency can be critical for the real-world deployment of their powerful applications. In this talk, we describe several recent developments for accelerating serial and parallel implementations of cryptographic pairings in the asymmetric setting: lazy reduction in extension fields, faster compressed squaring in cyclotomic subgroups, notes on curve selection at higher security levels and how to split a pairing computation among multiple processor cores. We also summarize the current situation with symmetric pairings.</p>
     
 
     <div class="row">
@@ -937,7 +953,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            May 5, 2022
+            Aug 23, 2015
           </div>
         </div>
       </div>
@@ -952,8 +968,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
-            <a href="https://ida.dk/arrangementer-og-kurser/konferencer/driving-it-aarhus" target="_blank" rel="noopener">
-            Driving IT Aarhus 2022
+            <a href="https://latincrypt2015.cs.cinvestav.mx/" target="_blank" rel="noopener">
+            3rd Advanced School on Cryptology and Information Security in Latin America (ASCrypto 2015)
             </a>
           </div>
         </div>
@@ -971,10 +987,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Aarhus, Denmark</div>
-          
-            <div class="col-md-3"></div>
-            <div class="col-12 col-md-9"></div>
+          <div class="col-12 col-md-9">Guadalajara, Mexico</div>
           
         </div>
       </div>
