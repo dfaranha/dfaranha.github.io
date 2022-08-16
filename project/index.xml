@@ -50,6 +50,25 @@ It considered the SSL/TLS configuration (supported standards, algorithms, and ot
     </item>
     
     <item>
+      <title>Blockchain Academy Network</title>
+      <link>/project/ban/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/ban/</guid>
+      <description>&lt;p&gt;The project goal was to develop training materials and use cases for secure blockchain applications.
+The materials produced by the project are available on &lt;a href=&#34;https://www.youtube.com/channel/UCC9cliFsIkKWxl2tO6c32IQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt; and &lt;a href=&#34;https://medium.com/blockchain-academy-network&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crypto for IoT</title>
+      <link>/project/cryptoiot/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/cryptoiot/</guid>
+      <description>&lt;p&gt;Concerns about the security of communications between IoT devices and even of the devices themselves have emerged in the literature and the internet in general. The fact that there will be an extraordinary number of wirelessly networked devices (counted in trillions) physically exposed, has made attack scenarios that are classically considered of difficult materialization a real possibility. Special attention is paid to side-channel attacks, in which sensitive data, such as keys, may be retrieved simply by observing information leakage through power consumption, execution time or radiation measurements. Active data injection attacks in the communication channel, side channels, or the device itself are also greatly facilitated. With all this, the search for cryptographic tools that can be made to work in the context of IoT will be a major research topic in the next few years. Finding the proper trade-off of speed, memory and energy efficiency for a given platform, all under severe secure implementation requirements is a very challenging problem, requiring mathematical, computer science and engineering skills, in an never-ending quest as platform evolution keeps its frantic pace. The focus of this research will be the design and implementation of efficient (in time, space and energy) and robust (side-channel leakage resistant) cryptographic algorithms and protocols with a view to resource- constrained devices, typical of the Internet of Things.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Encryption Policy</title>
       <link>/project/e2ee/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -63,6 +82,54 @@ It considered the SSL/TLS configuration (supported standards, algorithms, and ot
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YqW5p0nh8qQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Institute for Technology &amp;amp; Society of Rio&lt;/a&gt;, followed by an &lt;a href=&#34;https://www.youtube.com/watch?v=7cjUBHW6QKM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;interview&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qN9w_BuKfCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supreme Court of Brazil&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Private Machine Learning</title>
+      <link>/project/lara/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/lara/</guid>
+      <description>&lt;p&gt;Homomorphic encryption has a very important role in Cloud Computing because it allows the data to be processed without being revealed. It means that users of cloud services can have both the convenience and the privacy by encrypting and then submitting their data. However, Fully Homomorphic Encryption schemes, that would allow the cloud to execute arbitrary functions over encrypted data, are still not practical. Hence, researchers have studied also how to use Somewhat Homomorphic Encryption to solve several problems, like calculating logistical regression or running classification algorithms over encrypted data. This project will develop and implement homomorphic versions of two algorithms widely used in machine learning that can be evaluated over encrypted data using somewhat homomorphic encryption schemes: Principal Component Analysis (PCA) and k Nearest Neighbors (k-NN).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PUFs</title>
+      <link>/project/pufs/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/pufs/</guid>
+      <description>&lt;p&gt;The security of current cryptographic methods is based on the infeasibility of solving certain computational problems. Basically, a cryptosystem is as secure as the underlying instance of a computational problem considered to be ?difficult?. However, in most cases, this implies higher power consumption for more secure cryptosystems, as they need to perform calculations on increasingly complicated mathematical objects as their security increases. Unfortunately, many of those current cryptographic solutions may be impractical in energy-constrained devices such as Systems on Chip (SoC). The goal of this project is to investigate new energy efficient cryptographic techniques based on Physical Unclonable Functions (PUFs). Through the study of such methods we intend to develop novel frameworks for cheap energy efficient cryptography fully integrated with particular aspects of SoC devices. We focus on applications that are widely required both for personal services and in the financial/e-commerce markets. We propose the study of Physical Unclonable Functions as an alternative to computationally hard problems commonly used as basis for cryptographic protocols. PUFs are functions uniquely determined by the very physical properties of a given electronic device, meaning that they can?t be cloned since the exact physical structures of a device cannot be recreated. In this project, we propose to develop specific protocols for user authentication and key exchange based on PUFs. Such protocols are of great importance for e-banking, e-commerce and secure transactions applications, which are rapidly expanding markets in Brazil.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Residue Number Systems for Cryptography</title>
+      <link>/project/renais/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/renais/</guid>
+      <description>&lt;p&gt;Modular multiplication is crucial nowadays to the security of Internet connections. It is used to implement conventional public key cryptography for protecting the integrity and confidentiality of electronic communication, and bleeding-edge algorithms securing blockchains and cryptocurrencies. While most of these implementations employ Montgomery modular multiplication as the fundamental building block, alternative representation that favor parallel execution have been overlooked. One such candidate is Residue Number Systems (RNS), which break down large integers into many small residues that can be processed in parallel. RNS arithmetic has demonstrated superior performance in a few niche applications targeting very specific platforms, and it is very intriguing why these results do not translate to commodity processors. This project deals with the challenges of discovering new algorithms and implementation techniques to accelerate RNS arithmetic of cryptographic interest, with a sharp focus on developing formally verified implementations for correctness and consequently security.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SecExec</title>
+      <link>/project/secexec/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/secexec/</guid>
+      <description>&lt;p&gt;The Internet of Things (IoT) allows the interconnection of several embedded devices that manipulate data of different types and perform critical tasks. This environment promises to be a source of great benefits to people lives but it definitely brings new requirements to their effective implementation. Among them, security, safety and privacy have emerged as new and critical dimensions of the design of embedded systems. Therefore, finding solutions to this pressing social issue is mandatory. Despite the importance of empowering IoT with strong security, the paradigm shift brought with this new technology poses a challenging problem for the design of security mechanisms: while the devices need to be kept small and low-cost, the huge amount and potentially sensitive nature of the data collected and transported by these devices will have significant privacy implications. At the same time, any practical security solution must take into account the constrained resources and limited tamper-resistance of a typical IoT device. In this context, the present research project proposes a co-design approach (cryptographic software making use of architectural support in the hardware) for the protection of embedded devices operating under IoT environments. The objective is to design and implement lightweight cryptographic schemes for IoT devices and other embedded platforms, integrating them with architecture-provided instruction-level side-channel resistance. The combination of hardware and software resources should be validated both by formal analysis of the running software and experimental evaluation of the architecture features.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verifiable Cryptographic Software</title>
+      <link>/project/verics/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/verics/</guid>
+      <description>&lt;p&gt;Zero-knowledge proofs are integral for deploying privacy-preserving cryptocurrencies and other blockchain applications, as they represent a fundamental building block for proving statements about confidential data.&lt;/p&gt;
+&lt;p&gt;The most popular framework for such proofs is based on cryptographic pairings defined over elliptic curves, where pairing-based zero-knowledge Succint Non-Interactive Arguments of Knowledge (zk-SNARKs) underlie private transactions.&lt;/p&gt;
+&lt;p&gt;There has been substantial progress in the past decade towards selecting parameters and implementing pairing-based cryptography efficiently in software. However, current record-setting implementations rely on hand-optimized architecture-specific Assembly code for the underlying field arithmetic and a great deal of manual tuning to unlock the best performance across a range of architectures. This introduces low-level code which is both hard to audit and to verify as correct, and a number of cryptographic libraries have suffered with simple bugs in their arithmetic backend layers as a direct consequence.&lt;/p&gt;
+&lt;p&gt;The project&amp;rsquo;s main goal is then to investigate techniques to develop a formally verified efficient software library for pairing-based cryptography, as means to support current blockchain projects relying on zero-knowledge proofs. This requires extending current frameworks for generation of correct-by-design cryptographic software to efficiently handle arithmetic in extension fields and elliptic curves, among others.&lt;/p&gt;
 </description>
     </item>
     

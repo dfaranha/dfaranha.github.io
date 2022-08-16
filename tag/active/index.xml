@@ -25,5 +25,26 @@ It considered the SSL/TLS configuration (supported standards, algorithms, and ot
 </description>
     </item>
     
+    <item>
+      <title>Residue Number Systems for Cryptography</title>
+      <link>/project/renais/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/renais/</guid>
+      <description>&lt;p&gt;Modular multiplication is crucial nowadays to the security of Internet connections. It is used to implement conventional public key cryptography for protecting the integrity and confidentiality of electronic communication, and bleeding-edge algorithms securing blockchains and cryptocurrencies. While most of these implementations employ Montgomery modular multiplication as the fundamental building block, alternative representation that favor parallel execution have been overlooked. One such candidate is Residue Number Systems (RNS), which break down large integers into many small residues that can be processed in parallel. RNS arithmetic has demonstrated superior performance in a few niche applications targeting very specific platforms, and it is very intriguing why these results do not translate to commodity processors. This project deals with the challenges of discovering new algorithms and implementation techniques to accelerate RNS arithmetic of cryptographic interest, with a sharp focus on developing formally verified implementations for correctness and consequently security.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verifiable Cryptographic Software</title>
+      <link>/project/verics/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/verics/</guid>
+      <description>&lt;p&gt;Zero-knowledge proofs are integral for deploying privacy-preserving cryptocurrencies and other blockchain applications, as they represent a fundamental building block for proving statements about confidential data.&lt;/p&gt;
+&lt;p&gt;The most popular framework for such proofs is based on cryptographic pairings defined over elliptic curves, where pairing-based zero-knowledge Succint Non-Interactive Arguments of Knowledge (zk-SNARKs) underlie private transactions.&lt;/p&gt;
+&lt;p&gt;There has been substantial progress in the past decade towards selecting parameters and implementing pairing-based cryptography efficiently in software. However, current record-setting implementations rely on hand-optimized architecture-specific Assembly code for the underlying field arithmetic and a great deal of manual tuning to unlock the best performance across a range of architectures. This introduces low-level code which is both hard to audit and to verify as correct, and a number of cryptographic libraries have suffered with simple bugs in their arithmetic backend layers as a direct consequence.&lt;/p&gt;
+&lt;p&gt;The project&amp;rsquo;s main goal is then to investigate techniques to develop a formally verified efficient software library for pairing-based cryptography, as means to support current blockchain projects relying on zero-knowledge proofs. This requires extending current frameworks for generation of correct-by-design cryptographic software to efficiently handle arithmetic in extension fields and elliptic curves, among others.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
