@@ -506,6 +506,12 @@
     <loc>/talk/introduction-to-pairings/</loc>
     <lastmod>2017-11-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/post/transparencia-justica/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/faz-hernandezfa17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -1030,7 +1036,5 @@
     <loc>/courses/</loc>
   </url><url>
     <loc>/authors/admin/</loc>
-  </url><url>
-    <loc>/post/</loc>
   </url>
 </urlset>
