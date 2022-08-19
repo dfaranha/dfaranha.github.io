@@ -144,5 +144,32 @@ The materials produced by the project are available on &lt;a href=&#34;https://w
 </description>
     </item>
     
+    <item>
+      <title>RELIC is an Efficient LIbrary for Cryptography</title>
+      <link>/project/relic/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>/project/relic/</guid>
+      <description>&lt;p&gt;RELIC is a modern research-oriented cryptographic meta-toolkit with emphasis on efficiency and flexibility. RELIC can be used to build efficient and usable cryptographic toolkits tailored for specific security levels and algorithmic choices.&lt;/p&gt;
+&lt;h3 id=&#34;goals&#34;&gt;Goals&lt;/h3&gt;
+&lt;p&gt;RELIC is an ongoing project and features will be added on demand. The focus is to provide:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ease of portability and inclusion of architecture-dependent code&lt;/li&gt;
+&lt;li&gt;Simple experimentation with alternative implementations&lt;/li&gt;
+&lt;li&gt;Tests and benchmarks for every implemented function&lt;/li&gt;
+&lt;li&gt;Flexible configuration&lt;/li&gt;
+&lt;li&gt;Maximum efficiency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;algorithms&#34;&gt;Algorithms&lt;/h3&gt;
+&lt;p&gt;RELIC implements to date:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multiple-precision integer arithmetic&lt;/li&gt;
+&lt;li&gt;Prime and Binary field arithmetic&lt;/li&gt;
+&lt;li&gt;Elliptic curves over prime and binary fields (NIST curves and pairing-friendly curves)&lt;/li&gt;
+&lt;li&gt;Bilinear maps and related extension fields&lt;/li&gt;
+&lt;li&gt;Cryptographic protocols (RSA, Rabin, ECDSA, ECMQV, ECSS (Schnorr), ECIES, Sakai-Ohgishi-Kasahara ID-based authenticated key agreement, Boneh-Lynn-Schacham and Boneh-Boyen short signatures, Paillier and Benaloh homomorphic encryption systems)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
