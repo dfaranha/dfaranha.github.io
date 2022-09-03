@@ -531,6 +531,11 @@ They were also part of the online course &lt;a href=&#34;https://www.coursera.or
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4D0oCyfXfxY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XV International Free Software Forum&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;You can find other publications and talks below.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/NGmHrxvefNo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -702,6 +707,14 @@ They were also part of the online course &lt;a href=&#34;https://www.coursera.or
       <link>/publication/barcellosa18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/barcellosa18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Analysis of Brazilian Mobile Banking Apps on Android</title>
+      <link>/publication/cruzca18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cruzca18/</guid>
       <description></description>
     </item>
     
@@ -926,6 +939,11 @@ They were also part of the online course &lt;a href=&#34;https://www.coursera.or
       <guid>/project/ban/</guid>
       <description>&lt;p&gt;The project goal was to develop training materials and use cases for secure blockchain applications.
 The materials produced by the project are available on &lt;a href=&#34;https://www.youtube.com/channel/UCC9cliFsIkKWxl2tO6c32IQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt; and &lt;a href=&#34;https://medium.com/blockchain-academy-network&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/0T5dnEV3PQo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
