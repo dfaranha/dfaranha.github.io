@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>2DT-GLS: Faster and exception-free scalar multiplication in the GLS254 binary curve</title>
+      <link>/publication/aardala22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/aardala22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Count Me In! Extendability for Threshold Ring Signatures</title>
       <link>/publication/aranhahnpy22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -25,6 +33,30 @@
       <link>/publication/aranhabcgo022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/aranhabcgo022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-assurance field inversion for curve-based cryptography</title>
+      <link>/publication/hvassas22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hvassas22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laconic Private Set-Intersection From Pairings</title>
+      <link>/publication/aranhalos22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhalos22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The State of the Union: Union-Only Signatures for Data Aggregation</title>
+      <link>/publication/aranhaeks22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhaeks22/</guid>
       <description></description>
     </item>
     

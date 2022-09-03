@@ -5,12 +5,20 @@
     <link>/authors/antonio-guimaraes/</link>
       <atom:link href="/authors/antonio-guimaraes/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio Guimarães</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Antonio Guimarães</title>
       <link>/authors/antonio-guimaraes/</link>
     </image>
+    
+    <item>
+      <title>MOSFHET: Optimized Software for FHE over the Torus</title>
+      <link>/publication/guimaraesba22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/guimaraesba22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Revisiting the functional bootstrap in TFHE</title>
