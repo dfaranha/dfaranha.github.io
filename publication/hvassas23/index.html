@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="[Associate Professor]" />
+  <meta name="description" content="The security of modern cryptography depends on multiple factors, from sound hardness assumptions to correct implementations that resist side-channel cryptanalysis. Curve-based cryptography is not different in this regard, and substantial progress in the last few decades has been achieved in both selecting parameters and devising secure implementation strategies. In this context, the security of implementations of field inversion is sometimes overlooked in the research literature, because (i) the approach based on Fermat’s Little Theorem (FLT) suffices performance-wise for many parameters used in practice; (ii) it is typically invoked only at the very end of a cryptographic computation, with a small impact on performance; (iii) it is challenging to implement securely for general parameters without a significant performance penalty. However, field inversion can process sensitive information and must be protected with side-channel countermeasures like any other cryptographic operation, as illustrated by recent attacks [1]–[3]. In this work, we focus on implementing field inversion for primes of cryptographic interest with security against timing attacks, irrespective of whether the FLT-based inversion can be efficiently implemented. We extend the Fiat-Crypto framework, which synthesizes provably correct-by-construction implementations, to implement the Bernstein-Yang inversion algorithm as a step towards this goal. This allows a correct implementation of prime field inversion to be synthesized for any prime. We benchmark the implementations across a range of primes for curve-based cryptography and they outperform traditional FLT-based approaches in most cases, with observed speedups up to 2 for the largest parameters. Our work is already used in production in the MirageOS unikernel operating system, zig programming language, and the ECCKiila framework." />
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication-type/2/" />
+  <link rel="alternate" hreflang="en-us" href="/publication/hvassas23/" />
 
   
 
@@ -306,8 +306,6 @@
   
 
   
-    <link rel="alternate" href="/publication-type/2/index.xml" type="application/rss+xml" title="Diego F. Aranha" />
-  
 
   
     <link rel="manifest" href="/index.webmanifest" />
@@ -316,7 +314,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="/publication-type/2/" />
+  <link rel="canonical" href="/publication/hvassas23/" />
 
   
   
@@ -333,33 +331,80 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Diego F. Aranha" />
-  <meta property="og:url" content="/publication-type/2/" />
-  <meta property="og:title" content="2 | Diego F. Aranha" />
-  <meta property="og:description" content="[Associate Professor]" /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="/publication/hvassas23/" />
+  <meta property="og:title" content="High-Assurance Field Inversion for Curve-Based Cryptography | Diego F. Aranha" />
+  <meta property="og:description" content="The security of modern cryptography depends on multiple factors, from sound hardness assumptions to correct implementations that resist side-channel cryptanalysis. Curve-based cryptography is not different in this regard, and substantial progress in the last few decades has been achieved in both selecting parameters and devising secure implementation strategies. In this context, the security of implementations of field inversion is sometimes overlooked in the research literature, because (i) the approach based on Fermat’s Little Theorem (FLT) suffices performance-wise for many parameters used in practice; (ii) it is typically invoked only at the very end of a cryptographic computation, with a small impact on performance; (iii) it is challenging to implement securely for general parameters without a significant performance penalty. However, field inversion can process sensitive information and must be protected with side-channel countermeasures like any other cryptographic operation, as illustrated by recent attacks [1]–[3]. In this work, we focus on implementing field inversion for primes of cryptographic interest with security against timing attacks, irrespective of whether the FLT-based inversion can be efficiently implemented. We extend the Fiat-Crypto framework, which synthesizes provably correct-by-construction implementations, to implement the Bernstein-Yang inversion algorithm as a step towards this goal. This allows a correct implementation of prime field inversion to be synthesized for any prime. We benchmark the implementations across a range of primes for curve-based cryptography and they outperform traditional FLT-based approaches in most cases, with observed speedups up to 2 for the largest parameters. Our work is already used in production in the MirageOS unikernel operating system, zig programming language, and the ECCKiila framework." /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2023-01-01T00:00:00&#43;00:00" />
+      <meta
+        property="article:published_time"
+        content="2023-01-01T00:00:00&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2023-01-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/hvassas23/"
+  },
+  "headline": "High-Assurance Field Inversion for Curve-Based Cryptography",
+  
+  "datePublished": "2023-01-01T00:00:00Z",
+  "dateModified": "2023-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Benjamin Salling Hvass"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Diego F. Aranha",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "The security of modern cryptography depends on multiple factors, from sound hardness assumptions to correct implementations that resist side-channel cryptanalysis. Curve-based cryptography is not different in this regard, and substantial progress in the last few decades has been achieved in both selecting parameters and devising secure implementation strategies. In this context, the security of implementations of field inversion is sometimes overlooked in the research literature, because (i) the approach based on Fermat’s Little Theorem (FLT) suffices performance-wise for many parameters used in practice; (ii) it is typically invoked only at the very end of a cryptographic computation, with a small impact on performance; (iii) it is challenging to implement securely for general parameters without a significant performance penalty. However, field inversion can process sensitive information and must be protected with side-channel countermeasures like any other cryptographic operation, as illustrated by recent attacks [1]–[3]. In this work, we focus on implementing field inversion for primes of cryptographic interest with security against timing attacks, irrespective of whether the FLT-based inversion can be efficiently implemented. We extend the Fiat-Crypto framework, which synthesizes provably correct-by-construction implementations, to implement the Bernstein-Yang inversion algorithm as a step towards this goal. This allows a correct implementation of prime field inversion to be synthesized for any prime. We benchmark the implementations across a range of primes for curve-based cryptography and they outperform traditional FLT-based approaches in most cases, with observed speedups up to 2 for the largest parameters. Our work is already used in production in the MirageOS unikernel operating system, zig programming language, and the ECCKiila framework."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>2 | Diego F. Aranha</title>
+  <title>High-Assurance Field Inversion for Curve-Based Cryptography | Diego F. Aranha</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="ba5418e8741d1a367c32dd720f0dbb00" >
 
   
   
@@ -812,6 +857,17 @@
 
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
 
 
 
@@ -820,156 +876,212 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1>High-Assurance Field Inversion for Curve-Based Cryptography</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/benjamin-salling-hvass/">Benjamin Salling Hvass</a></span>, <span >
+      <a href="/authors/diego-f.-aranha/">Diego F. Aranha</a></span>, <span >
+      <a href="/authors/bas-spitters/">Bas Spitters</a></span>
+  </div>
+  
+  
+
+   
+  <span class="pub-publication">
+    
+      <em>CSF</em>
+    
+  </span>
+  
+
+  
+  <span class="middot-divider"></span> 
+  <span class="article-date">
+    
+    
+      
+    
+    2023
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>2</h1>
 
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1109/CSF57540.2023.00008" target="_blank" rel="noopener">
+  <i class="ai ai-doi mr-1"></i> 
+  DOI
+</a>
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://eprint.iacr.org/2021/549" target="_blank" rel="noopener noreferrer"> 
+  <i class="fa fa-file-pdf mr-1"></i> 
+  PDF
+</a>
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/hvassas23/cite.bib">
+      <i class="fa fa-quote-left mr-1"></i> 
+      BibTeX 
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
   
+  <a class="btn btn-outline-primary btn-page-header" href="/project/verics/">
+    <i class="fas fa-clipboard mr-1"></i> 
+    Project VeriCS 
+  </a>
+  
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
     
     
     
-    <div>
-      <h2><a href="/publication/alvesoa23/" >Performance of hierarchical transforms in homomorphic encryption: a case study on logistic regression inference</a></h2>
-      <div class="article-style">
-        
-          Recent works challenged the number-theoretic transform (NTT) as the most efficient method for polynomial multiplication in GPU implementations of fully homomorphic encryption schemes such as CKKS and BFV. In particular, these works argue that the …
-        
-      </div>
-    </div>
-  
+    <p class="pub-abstract">The security of modern cryptography depends on multiple factors, from sound hardness assumptions to correct implementations that resist side-channel cryptanalysis. Curve-based cryptography is not different in this regard, and substantial progress in the last few decades has been achieved in both selecting parameters and devising secure implementation strategies. In this context, the security of implementations of field inversion is sometimes overlooked in the research literature, because (i) the approach based on Fermat’s Little Theorem (FLT) suffices performance-wise for many parameters used in practice; (ii) it is typically invoked only at the very end of a cryptographic computation, with a small impact on performance; (iii) it is challenging to implement securely for general parameters without a significant performance penalty. However, field inversion can process sensitive information and must be protected with side-channel countermeasures like any other cryptographic operation, as illustrated by recent attacks [1]–[3]. In this work, we focus on implementing field inversion for primes of cryptographic interest with security against timing attacks, irrespective of whether the FLT-based inversion can be efficiently implemented. We extend the Fiat-Crypto framework, which synthesizes provably correct-by-construction implementations, to implement the Bernstein-Yang inversion algorithm as a step towards this goal. This allows a correct implementation of prime field inversion to be synthesized for any prime. We benchmark the implementations across a range of primes for curve-based cryptography and they outperform traditional FLT-based approaches in most cases, with observed speedups up to 2 for the largest parameters. Our work is already used in production in the MirageOS unikernel operating system, zig programming language, and the ECCKiila framework.</p>
     
-    
-    
-    <div>
-      <h2><a href="/publication/kingoa23/" >User-centric security analysis of MitID: The Danish passwordless digital identity solution</a></h2>
-      <div class="article-style">
-        
-          MitID is the new electronic identification (eID) solution in Denmark. It provides access to many online services, including online banking, insurance, taxes, and health information. In this paper, we analyze the security of the new solution from the …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/aranhahg22/" >A survey of elliptic curves for proof systems</a></h2>
-      <div class="article-style">
-        
-          Elliptic curves have become key ingredients for instantiating zero-knowledge proofs and more generally proof systems. Recently, there have been many tailored constructions of these curves that aim at efficiently implementing different kinds of proof …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/resenderdna22/" >Fast Privacy-Preserving Text Classification Based on Secure Multiparty Computation</a></h2>
-      <div class="article-style">
-        
-          We propose a privacy-preserving Naive Bayes classifier and apply it to the problem of private text classification. In this setting, a party (Alice) holds a text message, while another party (Bob) holds a classifier. At the end of the protocol, Alice …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/resendea21/" >Faster unbalanced Private Set Intersection in the semi-honest setting</a></h2>
-      <div class="article-style">
-        
-          Protocols for Private Set Intersection (PSI) are important cryptographic techniques to perform joint operations on datasets in a privacy-preserving way. They allow two parties to compute the intersection of their private sets without revealing any …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/guimaraesba21/" >Revisiting the functional bootstrap in TFHE</a></h2>
-      <div class="article-style">
-        
-          The FHEW cryptosystem introduced the idea that an arbitrary function can be evaluated within the bootstrap procedure as a table lookup. The faster bootstraps of TFHE strengthened this approach, which was later named Functional Bootstrap (Boura et …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/aranhabestwz21/" >Side-Channel Protections for Picnic Signatures</a></h2>
-      <div class="article-style">
-        
-          We study masking countermeasures for side-channel attacks against signature schemes constructed from the MPC-in-the-head paradigm, specifically when the MPC protocol uses preprocessing. This class of signature schemes includes Picnic, an alternate …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/ortizaacd21/" >The Ring-LWE Problem in Lattice-Based Cryptography: The Case of Twisted Embeddings</a></h2>
-      <div class="article-style">
-        
-          Several works have characterized weak instances of the Ring-LWE problem by exploring vulnerabilities arising from the use of algebraic structures. Although these weak instances are not addressed by worst-case hardness theorems, enabling other ring …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/mbangaf20/" >Computing the optimal ate pairing over elliptic curves with embedding degrees 54 and 48 at the 256-bit security level</a></h2>
-      <div class="article-style">
-        
-          Due to recent advances in the computation of finite fields discrete logarithms, the Barreto-Lynn-Scott family of elliptic curves of embedding degree 48 became suitable for instantiating pairing-based cryptography at the 256-bit security level. …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/cruzga20/" >Efficient and secure software implementations of Fantomas</a></h2>
-      <div class="article-style">
-        
-          In this paper, the efficient software implementation and side-channel resistance of the LS-Design construction are studied through a series of software implementations of the Fantomas block cipher, one of its most prominent instantiations. Target …
-        
-      </div>
-    </div>
-  
 
-  
-<nav>
-  <ul class="pagination justify-content-center">
     
     
-    <li class="page-item"><a class="page-link" href="/publication-type/2/page/2/">&raquo;</a></li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Refereed conference paper
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
   </ul>
-</nav>
+</div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
   </div>
 

@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>High-Assurance Field Inversion for Curve-Based Cryptography</title>
+      <link>/publication/hvassas23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/hvassas23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of hierarchical transforms in homomorphic encryption: a case study on logistic regression inference</title>
+      <link>/publication/alvesoa23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/alvesoa23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>User-centric security analysis of MitID: The Danish passwordless digital identity solution</title>
       <link>/publication/kingoa23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -65,14 +81,6 @@
       <link>/publication/ubysvklba22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/ubysvklba22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-assurance field inversion for curve-based cryptography</title>
-      <link>/publication/hvassas22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/hvassas22/</guid>
       <description></description>
     </item>
     
