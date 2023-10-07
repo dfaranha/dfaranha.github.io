@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hernán Vanegas | Diego F. Aranha</title>
+    <link>/authors/hernan-vanegas/</link>
+      <atom:link href="/authors/hernan-vanegas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hernán Vanegas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
+      <title>Hernán Vanegas</title>
+      <link>/authors/hernan-vanegas/</link>
+    </image>
+    
+    <item>
+      <title>Privacy-Preserving Edit Distance Computation Using Secret-Sharing Two-Party Computation</title>
+      <link>/publication/vanegasca23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/vanegasca23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
