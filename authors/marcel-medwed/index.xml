@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcel Medwed | Diego F. Aranha</title>
+    <link>/authors/marcel-medwed/</link>
+      <atom:link href="/authors/marcel-medwed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcel Medwed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
+      <title>Marcel Medwed</title>
+      <link>/authors/marcel-medwed/</link>
+    </image>
+    
+    <item>
+      <title>IACR Transactions on Cryptographic Hardware and Embedded Systems</title>
+      <link>/publication/tches2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/tches2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
