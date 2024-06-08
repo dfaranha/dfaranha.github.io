@@ -5,12 +5,20 @@
     <link>/authors/leonardo-neumann/</link>
       <atom:link href="/authors/leonardo-neumann/index.xml" rel="self" type="application/rss+xml" />
     <description>Leonardo Neumann</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Leonardo Neumann</title>
       <link>/authors/leonardo-neumann/</link>
     </image>
+    
+    <item>
+      <title>Homomorphic WiSARDs: Efficient Weightless Neural Network training over encrypted data</title>
+      <link>/publication/neumanngab24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/neumanngab24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Homomorphic evaluation of large look-up tables for inference on human genome data in the cloud</title>
