@@ -5,12 +5,20 @@
     <link>/authors/aurore-guillevic/</link>
       <atom:link href="/authors/aurore-guillevic/index.xml" rel="self" type="application/rss+xml" />
     <description>Aurore Guillevic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Aurore Guillevic</title>
       <link>/authors/aurore-guillevic/</link>
     </image>
+    
+    <item>
+      <title>A short-list of pairing-friendly curves resistant to the Special TNFS algorithm at the 192-bit security level</title>
+      <link>/publication/aranhafg24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhafg24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A survey of elliptic curves for proof systems</title>
