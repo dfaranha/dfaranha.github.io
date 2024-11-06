@@ -35,6 +35,14 @@ It considered the SSL/TLS configuration (supported standards, algorithms, and ot
     </item>
     
     <item>
+      <title>Verifiable Electronic Voting</title>
+      <link>/project/evoting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/project/evoting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RELIC is an Efficient LIbrary for Cryptography</title>
       <link>/project/relic/</link>
       <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
