@@ -47,10 +47,10 @@ It considered the SSL/TLS configuration (supported standards, algorithms, and ot
     </item>
     
     <item>
-      <title>Electronic Voting</title>
-      <link>/project/evoting/</link>
+      <title>Electronic Voting in Brazil</title>
+      <link>/project/evotingbr/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/project/evoting/</guid>
+      <guid>/project/evotingbr/</guid>
       <description>&lt;p&gt;The results were obtained after a 7-year saga to experimentally demonstrate the security problems with the electronic voting system adopted in Brazilian elections, and later informed the (still ongoing) nation-wide debate around the need for adopting paper trails for auditing elections in the country.&lt;/p&gt;
 &lt;p&gt;Our results were extensively covered by national and international press, for example: &lt;a href=&#34;https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New York Times&lt;/a&gt;, &lt;a href=&#34;https://arstechnica.com/features/2016/11/internet-based-and-open-source-how-e-voting-is-working-around-the-globe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ars Technica&lt;/a&gt; (and a &lt;a href=&#34;https://arstechnica.com/tech-policy/2018/06/in-a-blow-to-e-voting-critics-brazil-suspends-use-of-all-paper-ballots/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;second&lt;/a&gt; time), &lt;a href=&#34;https://www.spiegel.de/netzwelt/netzpolitik/brasilien-wahl-angst-vor-der-elektronischen-wahlurne-a-1235518.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Der Spiegel&lt;/a&gt;, &lt;a href=&#34;https://www.economist.com/the-americas/2018/10/05/brazils-voters-worry-about-the-integrity-of-their-elections&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Economist&lt;/a&gt;, &lt;a href=&#34;https://www.zdnet.com/article/fraud-possible-in-brazils-e-voting-system/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZDNet&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=M3jMoh4zWjg&amp;amp;t=63s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBC Brazil&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=ZoaYECRGBn4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globo News&lt;/a&gt;, &lt;a href=&#34;http://redeglobo.globo.com/globocidadania/videos/t/edicoes/v/seguranca-eleitoral-parte-3/2160001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globo&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=xATaNCsre9Q&amp;amp;t=60s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBT&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=ZKy-ZobLdoA&amp;amp;t=56s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Record&lt;/a&gt;, &lt;a href=&#34;https://www1.folha.uol.com.br/fsp/tec/index-20120709.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Folha&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=qlPXj6HkxOo&amp;amp;t=548s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tecmundo&lt;/a&gt;, &lt;a href=&#34;https://g1.globo.com/tecnologia/blog/seguranca-digital/post/falha-na-urna-brasileira-reproduzia-fielmente-erro-de-1995-diz-professor.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G1&lt;/a&gt;, &lt;a href=&#34;http://noticias.terra.com.br/brasil/politica/eleicoes/urna-e-a-mais-defasada-diz-professor-que-violou-sistema-do-tse,dbeadf0a2566b310VgnCLD200000bbcceb0aRCRD.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra&lt;/a&gt;, &lt;a href=&#34;https://opiniao.estadao.com.br/noticias/geral,urnas-abertas-para-fraudes-imp-,933663&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estadão&lt;/a&gt;; among others.
 They were also part of the online course &lt;a href=&#34;https://www.coursera.org/course/digitaldemocracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securing Digital Democracy&lt;/a&gt;, by &lt;a href=&#34;https://jhalderm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J. Alex Halderman&lt;/a&gt;, where the situation in Brazil was briefly discussed.&lt;/p&gt;
@@ -73,6 +73,14 @@ They were also part of the online course &lt;a href=&#34;https://www.coursera.or
 &lt;/div&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>Verifiable Electronic Voting</title>
+      <link>/project/evoting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/project/evoting/</guid>
+      <description></description>
     </item>
     
     <item>
