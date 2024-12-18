@@ -5,12 +5,21 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Secure Computation Infrastructures</title>
+      <link>/project/retailtech/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/project/retailtech/</guid>
+      <description>&lt;p&gt;The donation funds two research positions at the department focusing on security technologies such as Multi-Party Computation (MPC) and strong user authentication. These are key technologies to create a more secure future for Danish retail and make the sector more robust against identity theft and data breaches.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Residue Number Systems for Cryptography</title>

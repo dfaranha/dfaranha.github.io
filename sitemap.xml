@@ -8,6 +8,21 @@
   </url><url>
     <loc>/teaching/</loc>
   </url><url>
+    <loc>/tag/active/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/retailtech/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/talk/a-decade-probing-the-brazilian-voting-machine/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,9 +30,6 @@
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/diego-f.-aranha/</loc>
-    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/</loc>
@@ -365,9 +377,6 @@
     <loc>/publication-type/10/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/active/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/amparo-fuster-sabater/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -425,9 +434,6 @@
     <loc>/authors/otavio-oliveira-napoli/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/rafael-j.-cruz/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -447,9 +453,6 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/feheryalhv20/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/kulikba20/</loc>
