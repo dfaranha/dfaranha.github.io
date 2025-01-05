@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="[Associate Professor]" />
+  <meta name="description" content="Homomorphic encryption (HE) enables computation on encrypted data, which in turn facilitates the outsourcing of computation on private data. However, HE offers no guarantee that the returned result was honestly computed by the cloud. In order to have such guarantee, it is necessary to add verifiable computation (VC) into the system. The most efficient recent works in VC over HE focus on verifying operations on the ciphertext space of the HE scheme, which usually lacks the algebraic structure that would make it compatible with existing VC systems. For example, multiplication of ciphertexts in the current most efficient HE schemes requires non-algebraic operations such as real division and rounding. Therefore, existing works for VC over HE have to either give up on those efficient HE schemes, or incur a large overhead (an amount of constraints proportional to the ciphertext ring’s size) in order to emulate these non-algebraic operations. In this work, we move away from that paradigm by placing the verification checks in the plaintext space of HE, all while the prover remains computing on ciphertexts. We achieve this by introducing a general transformation for Interactive Oracle Proofs (IOPs) to work over HE, whose result we denote as HE-IOPs. We apply this same transformation to the FRI [Ben-Sasson et al., ICALP 2018] IOP of proximity and we show how to compile HE-Reed Solomon-encoded IOPs and HE- -correlated-IOPs with HE-FRI into HE-IOPs. Furthermore, our construction is compatible with a prover that provides input in zero-knowledge, and only relies on building blocks that are plausibly quantum-safe. Aligning the security parameters of HE and FRI is a difficult task for which we introduce several optimizations. We demonstrate their efficiency with a proof-of-concept implementation and show that we can run FRI’s commit phase for 4096 encrypted Reed Solomon codewords with degree bound in just 5.4 s (using 32 threads) on a c6i.metal instance using less than 4GB of memory. Verification takes just 12.3 milliseconds (single-threaded) for the same parameter set and can be reduced to just 5.6ms with parameters optimized for the verifier." />
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication-type/1/" />
+  <link rel="alternate" hreflang="en-us" href="/publication/aranhacgs24b/" />
 
   
 
@@ -306,8 +306,6 @@
   
 
   
-    <link rel="alternate" href="/publication-type/1/index.xml" type="application/rss+xml" title="Diego F. Aranha" />
-  
 
   
     <link rel="manifest" href="/index.webmanifest" />
@@ -316,7 +314,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="/publication-type/1/" />
+  <link rel="canonical" href="/publication/aranhacgs24b/" />
 
   
   
@@ -333,33 +331,80 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Diego F. Aranha" />
-  <meta property="og:url" content="/publication-type/1/" />
-  <meta property="og:title" content="1 | Diego F. Aranha" />
-  <meta property="og:description" content="[Associate Professor]" /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="/publication/aranhacgs24b/" />
+  <meta property="og:title" content="HELIOPOLIS: Verifiable Computation over Homomorphically Encrypted Data from Interactive Oracle Proofs is Practical | Diego F. Aranha" />
+  <meta property="og:description" content="Homomorphic encryption (HE) enables computation on encrypted data, which in turn facilitates the outsourcing of computation on private data. However, HE offers no guarantee that the returned result was honestly computed by the cloud. In order to have such guarantee, it is necessary to add verifiable computation (VC) into the system. The most efficient recent works in VC over HE focus on verifying operations on the ciphertext space of the HE scheme, which usually lacks the algebraic structure that would make it compatible with existing VC systems. For example, multiplication of ciphertexts in the current most efficient HE schemes requires non-algebraic operations such as real division and rounding. Therefore, existing works for VC over HE have to either give up on those efficient HE schemes, or incur a large overhead (an amount of constraints proportional to the ciphertext ring’s size) in order to emulate these non-algebraic operations. In this work, we move away from that paradigm by placing the verification checks in the plaintext space of HE, all while the prover remains computing on ciphertexts. We achieve this by introducing a general transformation for Interactive Oracle Proofs (IOPs) to work over HE, whose result we denote as HE-IOPs. We apply this same transformation to the FRI [Ben-Sasson et al., ICALP 2018] IOP of proximity and we show how to compile HE-Reed Solomon-encoded IOPs and HE- -correlated-IOPs with HE-FRI into HE-IOPs. Furthermore, our construction is compatible with a prover that provides input in zero-knowledge, and only relies on building blocks that are plausibly quantum-safe. Aligning the security parameters of HE and FRI is a difficult task for which we introduce several optimizations. We demonstrate their efficiency with a proof-of-concept implementation and show that we can run FRI’s commit phase for 4096 encrypted Reed Solomon codewords with degree bound in just 5.4 s (using 32 threads) on a c6i.metal instance using less than 4GB of memory. Verification takes just 12.3 milliseconds (single-threaded) for the same parameter set and can be reduced to just 5.6ms with parameters optimized for the verifier." /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2024-01-01T00:00:00&#43;00:00" />
+      <meta
+        property="article:published_time"
+        content="2025-01-01T00:00:00&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2024-01-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/aranhacgs24b/"
+  },
+  "headline": "HELIOPOLIS: Verifiable Computation over Homomorphically Encrypted Data from Interactive Oracle Proofs is Practical",
+  
+  "datePublished": "2025-01-01T00:00:00Z",
+  "dateModified": "2024-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Diego F. Aranha"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Diego F. Aranha",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Homomorphic encryption (HE) enables computation on encrypted data, which in turn facilitates the outsourcing of computation on private data. However, HE offers no guarantee that the returned result was honestly computed by the cloud. In order to have such guarantee, it is necessary to add verifiable computation (VC) into the system. The most efficient recent works in VC over HE focus on verifying operations on the ciphertext space of the HE scheme, which usually lacks the algebraic structure that would make it compatible with existing VC systems. For example, multiplication of ciphertexts in the current most efficient HE schemes requires non-algebraic operations such as real division and rounding. Therefore, existing works for VC over HE have to either give up on those efficient HE schemes, or incur a large overhead (an amount of constraints proportional to the ciphertext ring’s size) in order to emulate these non-algebraic operations. In this work, we move away from that paradigm by placing the verification checks in the plaintext space of HE, all while the prover remains computing on ciphertexts. We achieve this by introducing a general transformation for Interactive Oracle Proofs (IOPs) to work over HE, whose result we denote as HE-IOPs. We apply this same transformation to the FRI [Ben-Sasson et al., ICALP 2018] IOP of proximity and we show how to compile HE-Reed Solomon-encoded IOPs and HE- -correlated-IOPs with HE-FRI into HE-IOPs. Furthermore, our construction is compatible with a prover that provides input in zero-knowledge, and only relies on building blocks that are plausibly quantum-safe. Aligning the security parameters of HE and FRI is a difficult task for which we introduce several optimizations. We demonstrate their efficiency with a proof-of-concept implementation and show that we can run FRI’s commit phase for 4096 encrypted Reed Solomon codewords with degree bound in just 5.4 s (using 32 threads) on a c6i.metal instance using less than 4GB of memory. Verification takes just 12.3 milliseconds (single-threaded) for the same parameter set and can be reduced to just 5.6ms with parameters optimized for the verifier."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>1 | Diego F. Aranha</title>
+  <title>HELIOPOLIS: Verifiable Computation over Homomorphically Encrypted Data from Interactive Oracle Proofs is Practical | Diego F. Aranha</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="969229659840efc72c800e732971e17c" >
 
   
   
@@ -812,6 +857,17 @@
 
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
 
 
 
@@ -820,158 +876,194 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1>HELIOPOLIS: Verifiable Computation over Homomorphically Encrypted Data from Interactive Oracle Proofs is Practical</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1>1</h1>
+
+
+<div class="article-metadata">
 
   
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/diego-f.-aranha/">Diego F. Aranha</a></span>, <span >
+      <a href="/authors/anamaria-costache/">Anamaria Costache</a></span>, <span >
+      <a href="/authors/antonio-guimaraes/">Antonio Guimarães</a></span>, <span >
+      <a href="/authors/eduardo-soria-vazquez/">Eduardo Soria-Vazquez</a></span>
+  </div>
+  
+  
+
+   
+  <span class="pub-publication">
+    
+      <em>ASIACRYPT (5)</em>
+    
+  </span>
+  
+
+  
+  <span class="middot-divider"></span> 
+  <span class="article-date">
+    
+    
+      
+    
+    2024
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/aranhacgs24b/cite.bib">
+      <i class="fa fa-quote-left mr-1"></i> 
+      BibTeX 
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
     
     
     
-    <div>
-      <h2><a href="/publication/aranhan0ty20/" >LadderLeak: Breaking ECDSA with Less than One Bit of Nonce Leakage</a></h2>
-      <div class="article-style">
-        
-          Although it is one of the most popular signature schemes today, ECDSA presents a number of implementation pitfalls, in particular due to the very sensitive nature of the random value (known as the nonce) generated as part of the signing algorithm. It …
-        
-      </div>
-    </div>
-  
+    <p class="pub-abstract">Homomorphic encryption (HE) enables computation on encrypted data, which in turn facilitates the outsourcing of computation on private data. However, HE offers no guarantee that the returned result was honestly computed by the cloud. In order to have such guarantee, it is necessary to add verifiable computation (VC) into the system. The most efficient recent works in VC over HE focus on verifying operations on the ciphertext space of the HE scheme, which usually lacks the algebraic structure that would make it compatible with existing VC systems. For example, multiplication of ciphertexts in the current most efficient HE schemes requires non-algebraic operations such as real division and rounding. Therefore, existing works for VC over HE have to either give up on those efficient HE schemes, or incur a large overhead (an amount of constraints proportional to the ciphertext ring’s size) in order to emulate these non-algebraic operations. In this work, we move away from that paradigm by placing the verification checks in the plaintext space of HE, all while the prover remains computing on ciphertexts. We achieve this by introducing a general transformation for Interactive Oracle Proofs (IOPs) to work over HE, whose result we denote as HE-IOPs. We apply this same transformation to the FRI [Ben-Sasson et al., ICALP 2018] IOP of proximity and we show how to compile HE-Reed Solomon-encoded IOPs and HE- -correlated-IOPs with HE-FRI into HE-IOPs. Furthermore, our construction is compatible with a prover that provides input in zero-knowledge, and only relies on building blocks that are plausibly quantum-safe. Aligning the security parameters of HE and FRI is a difficult task for which we introduce several optimizations. We demonstrate their efficiency with a proof-of-concept implementation and show that we can run FRI’s commit phase for 4096 encrypted Reed Solomon codewords with degree bound in just 5.4 s (using 32 threads) on a c6i.metal instance using less than 4GB of memory. Verification takes just 12.3 milliseconds (single-threaded) for the same parameter set and can be reduced to just 5.6ms with parameters optimized for the verifier.</p>
     
-    
-    
-    <div>
-      <h2><a href="/publication/aranhao0z20/" >Security of Hedged Fiat-Shamir Signatures Under Fault Attacks</a></h2>
-      <div class="article-style">
-        
-          Deterministic generation of per-signature randomness has been a widely accepted solution to mitigate the catastrophic risk of randomness failure in Fiat--Shamir type signature schemes. However, recent studies have practically demonstrated that such …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/feheryalhv20/" >Side Channel Security of Smart Meter Data Compression Techniques</a></h2>
-      <div class="article-style">
-        
-          Given the large and sustained growth in the number of smart meters for different applications, e.g., electricity, water or heat, effective data compression has become increasingly important. Although smart meters tend to encrypt payloads using …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/kulikba20/" >Towards Formally Verified Key Management for Industrial Control Systems</a></h2>
-      <div class="article-style">
-        
-          Adoption of new digital technologies is impacting all aspects of society. While these new technologies are accepted rapidly within the consumer segment, in the area of industrial control systems the pace of change in computing is slower. This is …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/hoffmangaca19/" >Circumventing Uniqueness of XOR Arbiter PUFs</a></h2>
-      <div class="article-style">
-        
-          A fundamental property of Physical Unclonable Functions (PUFs) is uniqueness, which results from the intrinsic characteristics of each PUF instance. However, PUF architectures employ elements whose physical characteristics and behavior may be very …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/guimaraesba19/" >Introducing Arithmetic Failures to Accelerate QC-MDPC Code-Based Cryptography</a></h2>
-      <div class="article-style">
-        
-          In this work, we optimize the performance of QC-MDPC code-based cryptosystems through the insertion of configurable failure rates in their arithmetic procedures. We present constant time algorithms with a configurable failure rate for multiplication …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/aranhap19/" >The Simplest Multi-key Linearly Homomorphic Signature Scheme</a></h2>
-      <div class="article-style">
-        
-          We consider the problem of outsourcing computation on data authenticated by different users. Our aim is to describe and implement the simplest possible solution to provide data integrity in cloud-based scenarios. Concretely, our multi-key linearly …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/resendea18/" >Faster Unbalanced Private Set Intersection</a></h2>
-      <div class="article-style">
-        
-          Protocols for Private Set Intersection (PSI) are important cryptographic primitives that perform joint operations on datasets in a privacy-preserving way. They allow two parties to compute the intersection of their private sets without revealing any …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/florianoaas18/" >Security and Privacy in Extensible Distributed Coordination</a></h2>
-      <div class="article-style">
-        
-          Mechanisms for coordination and synchronization, like shared counters and distributed queues, are used in the development of many distributed systems. These mechanisms are implemented on top of coordination infrastructures, such as tuple spaces. A …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/faz-hernandezfa17/" >A Secure and Efficient Implementation of the Quotient Digital Signature Algorithm (qDSA)</a></h2>
-      <div class="article-style">
-        
-          Digital signatures provide a means to publicly authenticate messages sent over an insecure channel. Recently, the Quotient Digital Signature Algorithm (qDSA) was introduced aiming key-compatibility with the Diffie-Hellman X25519 function. Due to the …
-        
-      </div>
-    </div>
-  
 
-  
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/publication-type/1/page/2/">&laquo;</a></li>
     
     
-    <li class="page-item"><a class="page-link" href="/publication-type/1/page/4/">&raquo;</a></li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Refereed conference paper
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
   </ul>
-</nav>
+</div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
   </div>
 

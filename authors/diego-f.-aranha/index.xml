@@ -22,9 +22,9 @@
     
     <item>
       <title>A Practical Framework for Verifiable Computation over Encrypted Data</title>
-      <link>/publication/aranhacgs24/</link>
+      <link>/publication/aranhacgs24a/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/aranhacgs24/</guid>
+      <guid>/publication/aranhacgs24a/</guid>
       <description></description>
     </item>
     
@@ -41,6 +41,14 @@
       <link>/publication/aardalabkt24/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/publication/aardalabkt24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HELIOPOLIS: Verifiable Computation over Homomorphically Encrypted Data from Interactive Oracle Proofs is Practical</title>
+      <link>/publication/aranhacgs24b/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/aranhacgs24b/</guid>
       <description></description>
     </item>
     
