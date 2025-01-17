@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="[Associate Professor]" />
+  <meta name="description" content="SQIsign is a well-known post-quantum signature scheme due to its small combined signature and public-key size. However, SQIsign suffers from notably long signing times, and verification times are not short either. To improve this, recent research has explored both one-dimensional and two-dimensional variants of SQIsign, each with distinct characteristics. In particular, SQIsign2D’s efficient signing and verification times have made it a focal point of recent research. However, the absence of an optimized one-dimensional verification implementation hampers a thorough comparison between these different variants. This work bridges this gap in the literature: we provide a state-of-the-art implementation of one-dimensional SQIsign verification, including novel optimizations. We report a record-breaking one-dimensional SQIsign verification time of 8.55 Mcycles on a Raptor Lake Intel processor, closely matching SQIsign2D on the same processor. For uncompressed signatures, the signature size doubles and we verify in only 5.6 Mcycles. Taking advantage of the inherent parallelism available in isogeny computations, we present 5-core variants that can go as low as 1.3 Mcycles. Furthermore, we present the first implementation that supports both 32-bit and 64-bit processors. It includes optimized assembly code for the Cortex-M4 and has been integrated with the pqm4 project. Our results motivate further research into one-dimensional SQIsign, as it boasts unique features among isogeny-based schemes." />
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/" />
+  <link rel="alternate" hreflang="en-us" href="/publication/aardalaaamcfrr25/" />
 
   
 
@@ -306,8 +306,6 @@
   
 
   
-    <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Diego F. Aranha" />
-  
 
   
     <link rel="manifest" href="/index.webmanifest" />
@@ -316,7 +314,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="/authors/" />
+  <link rel="canonical" href="/publication/aardalaaamcfrr25/" />
 
   
   
@@ -333,33 +331,80 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Diego F. Aranha" />
-  <meta property="og:url" content="/authors/" />
-  <meta property="og:title" content="Authors | Diego F. Aranha" />
-  <meta property="og:description" content="[Associate Professor]" /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="/publication/aardalaaamcfrr25/" />
+  <meta property="og:title" content="Optimized One-Dimensional SQIsign Verification on Intel and Cortex-M4 | Diego F. Aranha" />
+  <meta property="og:description" content="SQIsign is a well-known post-quantum signature scheme due to its small combined signature and public-key size. However, SQIsign suffers from notably long signing times, and verification times are not short either. To improve this, recent research has explored both one-dimensional and two-dimensional variants of SQIsign, each with distinct characteristics. In particular, SQIsign2D’s efficient signing and verification times have made it a focal point of recent research. However, the absence of an optimized one-dimensional verification implementation hampers a thorough comparison between these different variants. This work bridges this gap in the literature: we provide a state-of-the-art implementation of one-dimensional SQIsign verification, including novel optimizations. We report a record-breaking one-dimensional SQIsign verification time of 8.55 Mcycles on a Raptor Lake Intel processor, closely matching SQIsign2D on the same processor. For uncompressed signatures, the signature size doubles and we verify in only 5.6 Mcycles. Taking advantage of the inherent parallelism available in isogeny computations, we present 5-core variants that can go as low as 1.3 Mcycles. Furthermore, we present the first implementation that supports both 32-bit and 64-bit processors. It includes optimized assembly code for the Cortex-M4 and has been integrated with the pqm4 project. Our results motivate further research into one-dimensional SQIsign, as it boasts unique features among isogeny-based schemes." /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2025-01-01T00:00:00&#43;00:00" />
+      <meta
+        property="article:published_time"
+        content="2025-01-01T00:00:00&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2025-01-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/aardalaaamcfrr25/"
+  },
+  "headline": "Optimized One-Dimensional SQIsign Verification on Intel and Cortex-M4",
+  
+  "datePublished": "2025-01-01T00:00:00Z",
+  "dateModified": "2025-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Marius A. Aardal"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Diego F. Aranha",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "SQIsign is a well-known post-quantum signature scheme due to its small combined signature and public-key size. However, SQIsign suffers from notably long signing times, and verification times are not short either. To improve this, recent research has explored both one-dimensional and two-dimensional variants of SQIsign, each with distinct characteristics. In particular, SQIsign2D’s efficient signing and verification times have made it a focal point of recent research. However, the absence of an optimized one-dimensional verification implementation hampers a thorough comparison between these different variants. This work bridges this gap in the literature: we provide a state-of-the-art implementation of one-dimensional SQIsign verification, including novel optimizations. We report a record-breaking one-dimensional SQIsign verification time of 8.55 Mcycles on a Raptor Lake Intel processor, closely matching SQIsign2D on the same processor. For uncompressed signatures, the signature size doubles and we verify in only 5.6 Mcycles. Taking advantage of the inherent parallelism available in isogeny computations, we present 5-core variants that can go as low as 1.3 Mcycles. Furthermore, we present the first implementation that supports both 32-bit and 64-bit processors. It includes optimized assembly code for the Cortex-M4 and has been integrated with the pqm4 project. Our results motivate further research into one-dimensional SQIsign, as it boasts unique features among isogeny-based schemes."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>Authors | Diego F. Aranha</title>
+  <title>Optimized One-Dimensional SQIsign Verification on Intel and Cortex-M4 | Diego F. Aranha</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="925e19b2ac885762c1c6cdb9c5167726" >
 
   
   
@@ -812,6 +857,15 @@
 
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
 
 
 
@@ -822,65 +876,199 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1>Optimized One-Dimensional SQIsign Verification on Intel and Cortex-M4</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
+
+
+<div class="article-metadata">
 
   
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/marius-a.-aardal/">Marius A. Aardal</a></span>, <span >
+      <a href="/authors/gora-adj/">Gora Adj</a></span>, <span >
+      <a href="/authors/arwa-alblooshi/">Arwa Alblooshi</a></span>, <span >
+      <a href="/authors/diego-f.-aranha/">Diego F. Aranha</a></span>, <span >
+      <a href="/authors/isaac-andres-canales-martinez/">Isaac Andrés Canales Martinez</a></span>, <span >
+      <a href="/authors/jorge-chavez-saab/">Jorge Chávez-Saab</a></span>, <span >
+      <a href="/authors/decio-luiz-gazzoni-filho/">Décio Luiz Gazzoni Filho</a></span>, <span >
+      <a href="/authors/krijn-reijnders/">Krijn Reijnders</a></span>, <span >
+      <a href="/authors/francisco-rodriguez-henriquez/">Francisco Rodríguez-Henríquez</a></span>
+  </div>
+  
+  
+
+   
+  <span class="pub-publication">
+    
+      <em>IACR_TCHES</em>
+    
+  </span>
+  
+
+  
+  <span class="middot-divider"></span> 
+  <span class="article-date">
+    
+    
+      
+    
+    2025
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/aardalaaamcfrr25/cite.bib">
+      <i class="fa fa-quote-left mr-1"></i> 
+      BibTeX 
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  <ul>
     
     
-      
-      <li><a href="/authors/michael-scott/">Michael Scott</a></li>
     
-      
-      <li><a href="/authors/eduardo-morais/">Eduardo Morais</a></li>
+    <p class="pub-abstract">SQIsign is a well-known post-quantum signature scheme due to its small combined signature and public-key size. However, SQIsign suffers from notably long signing times, and verification times are not short either. To improve this, recent research has explored both one-dimensional and two-dimensional variants of SQIsign, each with distinct characteristics. In particular, SQIsign2D’s efficient signing and verification times have made it a focal point of recent research. However, the absence of an optimized one-dimensional verification implementation hampers a thorough comparison between these different variants. This work bridges this gap in the literature: we provide a state-of-the-art implementation of one-dimensional SQIsign verification, including novel optimizations. We report a record-breaking one-dimensional SQIsign verification time of 8.55 Mcycles on a Raptor Lake Intel processor, closely matching SQIsign2D on the same processor. For uncompressed signatures, the signature size doubles and we verify in only 5.6 Mcycles. Taking advantage of the inherent parallelism available in isogeny computations, we present 5-core variants that can go as low as 1.3 Mcycles. Furthermore, we present the first implementation that supports both 32-bit and 64-bit processors. It includes optimized assembly code for the Cortex-M4 and has been integrated with the pqm4 project. Our results motivate further research into one-dimensional SQIsign, as it boasts unique features among isogeny-based schemes.</p>
     
-      
-      <li><a href="/authors/felipe-daguano/">Felipe Daguano</a></li>
+
     
-      
-      <li><a href="/authors/rafael-castro/">Rafael Castro</a></li>
     
-      
-      <li><a href="/authors/alba-cristina-magalhaes-alves-de-melo/">Alba Cristina Magalhaes Alves de Melo</a></li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#2">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
-      
-      <li><a href="/authors/hammurabi-c.-mendes/">Hammurabi C. Mendes</a></li>
+
     
-      
-      <li><a href="/authors/nilo-s.-b.-silva/">Nilo S. B. Silva</a></li>
     
-      
-      <li><a href="/authors/mario-a.-r.-dantas/">Mário A. R. Dantas</a></li>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
     
-      
-      <li><a href="/authors/admin/">Diego F. Aranha[&lt;sup&gt;&lt;font size=&#34;2&#34;&gt;&lt;i class=&#34;fas fa-volume-up&#34;&gt;&lt;/i&gt;&lt;/font&gt;&lt;/sup&gt;](https://forvo.com/search/aranha/)</a></li>
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
   </ul>
-
-  
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/18/">&laquo;</a></li>
-    
-    
-  </ul>
-</nav>
+</div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
   </div>
 
