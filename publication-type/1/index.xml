@@ -5,12 +5,20 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Key recovery on static Kyber based on transient execution attacks</title>
+      <link>/publication/constantinsgna25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/constantinsgna25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aggregating Falcon Signatures with LaBRADOR</title>
@@ -25,6 +33,14 @@
       <link>/publication/aranhacgs24b/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/publication/aranhacgs24b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying ElectionGuard - a theoretical and empirical analysis</title>
+      <link>/publication/jensenknoa24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/jensenknoa24/</guid>
       <description></description>
     </item>
     
