@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Diego F. Aranha</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Diego F. Aranha</title>
@@ -152,6 +152,26 @@ PA = Peyman Afshani&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;2014&amp;ndash;2018: &lt;a href=&#34;../courses/unicamp&#34;&gt;University of Campinas&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;2011&amp;ndash;2013: &lt;a href=&#34;../courses/unb&#34;&gt;University of Brasília&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[en_US] We need to talk about article 263</title>
+      <link>/post/article263/</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/post/article263/</guid>
+      <description>&lt;p&gt;Article 263 of the Danish Penal Code serves as Denmark’s national cybersecurity law, and it is among the most restrictive in the world. While intended to criminalize malicious online activity, its broad wording also penalizes security researchers who identify and responsibly disclose vulnerabilities.&lt;/p&gt;
+&lt;p&gt;The law is brief: accessing data or systems belonging to others without authorization is a criminal offense, punishable by fines or imprisonment. On the surface, that seems reasonable, but it leaves not much room for legitimate ethical research.&lt;/p&gt;
+&lt;p&gt;I teach the Systems Security course at Aarhus University, where students analyze the security of mobile apps on their own devices, using their own data and networks. We minimize risk and seek authorization from companies when possible, but sometimes that’s not feasible: firms don’t reply, students are late, or contact channels don’t exist.&lt;/p&gt;
+&lt;p&gt;Even with safeguards, students have occasionally found themselves in legal gray zones purely by accident:&lt;/p&gt;
+&lt;p&gt;• 𝘊𝘢𝘴𝘦 1: An app contained a hidden link to an unlisted website exposing personal data due to a misconfiguration, only discovered after a quick look.
+• 𝘊𝘢𝘴𝘦 2: During a man-in-the-middle test, another app’s server leaked data from other users, filtered out in the client but still sent over the network.
+• 𝘊𝘢𝘴𝘦 3: A third app handled access control via a client-side cookie. Altering it granted higher privileges because the server accepted any claim without verification.&lt;/p&gt;
+&lt;p&gt;These examples show how easily responsible researchers can stumble into illegal territory. No cases were brought against our students, but the disclosure process was stressful, and the law provides little protection for work done in the public interest.&lt;/p&gt;
+&lt;p&gt;As it stands, Article 263 protects companies deploying insecure systems but not those who uncover flaws. One could argue we should always obtain authorization, but when firms refuse or delay, vulnerabilities remain hidden, effectively shielded by law. It’s no surprise few Danish companies have bug bounty programs or disclosure policies. In all the cases above, students were legitimate users, motivated by curiosity and personal interest, not malice.&lt;/p&gt;
+&lt;p&gt;Coming from Brazil, a country with a harsher threat landscape, I find this imbalance striking. Brazilian law criminalizes unauthorized access only when done with malicious intent or causing harm, fostering a healthier environment for security research.&lt;/p&gt;
+&lt;p&gt;Denmark has a vibrant cybersecurity community, including some of the world’s best Capture the Flag (CTF) players. Yet their curiosity could one day get them into legal trouble. Article 263, as written, discourages exploration and widens the gap between Denmark’s technological ambitions and its digital reality.&lt;/p&gt;
+&lt;p&gt;We need reform, and we need it fast. It should not be illegal for users or security researchers to look under the hood of the systems that manage and store their data.&lt;/p&gt;
 </description>
     </item>
     
