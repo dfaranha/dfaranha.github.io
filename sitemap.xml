@@ -8,10 +8,22 @@
   </url><url>
     <loc>/teaching/</loc>
   </url><url>
-    <loc>/post/article263/</loc>
-    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/diego-f.-aranha/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/theres-a-lot-of-scary-software-out-there/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/article263/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
@@ -47,9 +59,6 @@
     <loc>/authors/arwa-alblooshi/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/basil-hess/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -69,9 +78,6 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/decio-luiz-gazzoni-filho/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/diego-f.-aranha/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/doreen-riepel/</loc>
@@ -204,9 +210,6 @@
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/a-decade-probing-the-brazilian-voting-machine/</loc>
-    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/event/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/9/</loc>
