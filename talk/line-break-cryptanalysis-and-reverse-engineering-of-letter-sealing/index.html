@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="[Associate Professor]" />
+  <meta name="description" content="We present a security analysis of the messaging service known as LINE, a popular platform used daily by millions of users in East Asia -- most notably Japan, Taiwan, Thailand, and Indonesia. More specifically, we focus on its underlying custom end-to-end-encryption (E2EE) protocol known as Letter Sealing v2, which we evaluate with respect to modern E2EE security guarantees. Our findings show that Letter Sealing allows a TLS Man-in-the-Middle attacker or malicious server to violate integrity, authenticity and confidentiality of communications. The stateless design of the protocol allows message replay, reordering, and blocking attacks, compromising the transcript consistency of communications. The lack of origin authentication facilitates impersonation attacks, in which the authorship of messages in one-to-one or group chats can be forged by malicious users colluding with the adversary. Lastly, stickers, a main selling point of the application, present a notable plaintext leakage, which leads to violation of confidentiality. To verify the correctness of our findings, we mounted a Man-in-the-Middle attack on an iOS device, yielding the device&#39;s outgoing traffic and the corresponding server responses. Utilizing this setup, we experimentally verified our attacks against the authentic LINE application. We discuss our findings in comparison to the state-of-the-art E2EE protocol Signal, and conclude that Letter Sealing does not satisfy the requirements expected from a modern E2EE messaging protocol. This is joint work with Adam Blatchley Hansen." />
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/" />
+  <link rel="alternate" hreflang="en-us" href="/talk/line-break-cryptanalysis-and-reverse-engineering-of-letter-sealing/" />
 
   
 
@@ -306,8 +306,6 @@
   
 
   
-    <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Diego F. Aranha" />
-  
 
   
     <link rel="manifest" href="/index.webmanifest" />
@@ -316,7 +314,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="/authors/" />
+  <link rel="canonical" href="/talk/line-break-cryptanalysis-and-reverse-engineering-of-letter-sealing/" />
 
   
   
@@ -333,14 +331,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Diego F. Aranha" />
-  <meta property="og:url" content="/authors/" />
-  <meta property="og:title" content="Authors | Diego F. Aranha" />
-  <meta property="og:description" content="[Associate Professor]" /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="/talk/line-break-cryptanalysis-and-reverse-engineering-of-letter-sealing/" />
+  <meta property="og:title" content="LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing | Diego F. Aranha" />
+  <meta property="og:description" content="We present a security analysis of the messaging service known as LINE, a popular platform used daily by millions of users in East Asia -- most notably Japan, Taiwan, Thailand, and Indonesia. More specifically, we focus on its underlying custom end-to-end-encryption (E2EE) protocol known as Letter Sealing v2, which we evaluate with respect to modern E2EE security guarantees. Our findings show that Letter Sealing allows a TLS Man-in-the-Middle attacker or malicious server to violate integrity, authenticity and confidentiality of communications. The stateless design of the protocol allows message replay, reordering, and blocking attacks, compromising the transcript consistency of communications. The lack of origin authentication facilitates impersonation attacks, in which the authorship of messages in one-to-one or group chats can be forged by malicious users colluding with the adversary. Lastly, stickers, a main selling point of the application, present a notable plaintext leakage, which leads to violation of confidentiality. To verify the correctness of our findings, we mounted a Man-in-the-Middle attack on an iOS device, yielding the device&#39;s outgoing traffic and the corresponding server responses. Utilizing this setup, we experimentally verified our attacks against the authentic LINE application. We discuss our findings in comparison to the state-of-the-art E2EE protocol Signal, and conclude that Letter Sealing does not satisfy the requirements expected from a modern E2EE messaging protocol. This is joint work with Adam Blatchley Hansen." /><meta property="og:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2025-12-11T00:00:00&#43;00:00" />
+      <meta
+        property="article:published_time"
+        content="2025-12-10T00:00:00&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2025-12-11T00:00:00&#43;00:00">
   
 
   
@@ -348,6 +350,42 @@
 
 
   
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/talk/line-break-cryptanalysis-and-reverse-engineering-of-letter-sealing/"
+  },
+  "name": "LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing",
+  
+  "location": {
+    "@type": "Place",
+    "name": "Excel London, UK"
+  },
+  
+  
+  "startDate": "2025-12-11T00:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Diego F. Aranha"
+  },
+  
+  "description": "We present a security analysis of the messaging service known as LINE, a popular platform used daily by millions of users in East Asia -- most notably Japan, Taiwan, Thailand, and Indonesia. More specifically, we focus on its underlying custom end-to-end-encryption (E2EE) protocol known as Letter Sealing v2, which we evaluate with respect to modern E2EE security guarantees. Our findings show that Letter Sealing allows a TLS Man-in-the-Middle attacker or malicious server to violate integrity, authenticity and confidentiality of communications. The stateless design of the protocol allows message replay, reordering, and blocking attacks, compromising the transcript consistency of communications. The lack of origin authentication facilitates impersonation attacks, in which the authorship of messages in one-to-one or group chats can be forged by malicious users colluding with the adversary. Lastly, stickers, a main selling point of the application, present a notable plaintext leakage, which leads to violation of confidentiality. To verify the correctness of our findings, we mounted a Man-in-the-Middle attack on an iOS device, yielding the device's outgoing traffic and the corresponding server responses. Utilizing this setup, we experimentally verified our attacks against the authentic LINE application. We discuss our findings in comparison to the state-of-the-art E2EE protocol Signal, and conclude that Letter Sealing does not satisfy the requirements expected from a modern E2EE messaging protocol. This is joint work with Adam Blatchley Hansen."
+}
+</script>
+
+  
+
+  
 
   
 
@@ -355,11 +393,11 @@
 
 
 
-  <title>Authors | Diego F. Aranha</title>
+  <title>LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing | Diego F. Aranha</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="88a02909ab0bffa067b3cdf137e33712" >
 
   
   
@@ -803,89 +841,242 @@
   </div>
 
   <div class="page-body">
+    <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/diego-f.-aranha/">Diego F. Aranha</a></span>, <span >
+      <a href="/authors/thomas-kingo/">Thomas Kingo</a></span>
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
     
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-  
-
+<div class="btn-links mb-3">
   
   
+
+
+
+
+
+
+
+
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
 
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://www.linebreak.info" target="_blank" rel="noopener noreferrer"> 
+  <i class="fa fa-file-pdf mr-1"></i> 
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
   
+  <a class="btn btn-outline-primary btn-page-header" href="/project/mobisec/">
+    <i class="fas fa-clipboard mr-1"></i> 
+    Project MobiSec 
+  </a>
+  
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  <ul>
     
+    <font size=3>
     
+    </font>
+
+    <div class="article-style" style="margin-top: 2em">
+        
+    </div>
+    
+
+    
+       
+      <p class="pub-abstract">We present a security analysis of the messaging service known as LINE, a popular platform used daily by millions of users in East Asia &ndash; most notably Japan, Taiwan, Thailand, and Indonesia. More specifically, we focus on its underlying custom end-to-end-encryption (E2EE) protocol known as Letter Sealing v2, which we evaluate with respect to modern E2EE security guarantees. Our findings show that Letter Sealing allows a TLS Man-in-the-Middle attacker or malicious server to violate integrity, authenticity and confidentiality of communications. The stateless design of the protocol allows message replay, reordering, and blocking attacks, compromising the transcript consistency of communications. The lack of origin authentication facilitates impersonation attacks, in which the authorship of messages in one-to-one or group chats can be forged by malicious users colluding with the adversary. Lastly, stickers, a main selling point of the application, present a notable plaintext leakage, which leads to violation of confidentiality. To verify the correctness of our findings, we mounted a Man-in-the-Middle attack on an iOS device, yielding the device&rsquo;s outgoing traffic and the corresponding server responses. Utilizing this setup, we experimentally verified our attacks against the authentic LINE application. We discuss our findings in comparison to the state-of-the-art E2EE protocol Signal, and conclude that Letter Sealing does not satisfy the requirements expected from a modern E2EE messaging protocol. This is joint work with Adam Blatchley Hansen.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Dec 11, 2025
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://www.blackhat.com/eu-25/briefings/schedule/index.html#line-break-cryptanalysis-and-reverse-engineering-of-letter-sealing-49039" target="_blank" rel="noopener">
+            Black Hat Europe (BHEU) 2025
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Excel London, UK</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
       
-      <li><a href="/authors/christophe-petit/">Christophe Petit</a></li>
+    </div>
+
     
-      
-      <li><a href="/authors/clement-hoffmann/">Clément Hoffmann</a></li>
-    
-      
-      <li><a href="/authors/damien-robert/">Damien Robert</a></li>
-    
-      
-      <li><a href="/authors/david-kohel/">David Kohel</a></li>
-    
-      
-      <li><a href="/authors/decio-luiz-gazzoni-filho/">Décio Luiz Gazzoni Filho</a></li>
-    
-      
-      <li><a href="/authors/doreen-riepel/">Doreen Riepel</a></li>
-    
-      
-      <li><a href="/authors/edson-borin/">Edson Borin</a></li>
-    
-      
-      <li><a href="/authors/elena-pagnin/">Elena Pagnin</a></li>
-    
-      
-      <li><a href="/authors/francisco-rodriguez-henriquez/">Francisco Rodríguez-Henríquez</a></li>
-    
-      
-      <li><a href="/authors/giacomo-pope/">Giacomo Pope</a></li>
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
   </ul>
-
-  
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/authors/">&laquo;</a></li>
-    
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/3/">&raquo;</a></li>
-    
-  </ul>
-</nav>
+</div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
   </div>
 

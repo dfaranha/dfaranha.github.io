@@ -5,12 +5,20 @@
     <link>/authors/thomas-kingo/</link>
       <atom:link href="/authors/thomas-kingo/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Kingo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Thomas Kingo</title>
       <link>/authors/thomas-kingo/</link>
     </image>
+    
+    <item>
+      <title>LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing</title>
+      <link>/talk/line-break-cryptanalysis-and-reverse-engineering-of-letter-sealing/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/line-break-cryptanalysis-and-reverse-engineering-of-letter-sealing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>User-centric security analysis of MitID: The Danish passwordless digital identity solution</title>
