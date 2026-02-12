@@ -69,6 +69,11 @@
 &lt;td&gt;Unamed shopping app&lt;/td&gt;
 &lt;td&gt;- Harcoded secrets (API keys and credentials)&lt;br&gt; - Spoofing of payment transactions&lt;br&gt; - Bypass of basket check process&lt;br&gt;- Enumeration of private user data&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mikkel Katholm&lt;br&gt;Magnus Wind&lt;br&gt;Emil Mors&lt;/td&gt;
+&lt;td&gt;Unamed social network&lt;/td&gt;
+&lt;td&gt;- Exposure of private user data in bulk through API&lt;br&gt;- Susceptibility to MITM attacks&lt;br&gt;- Lack of rate-limiting and expiry of password reset&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
