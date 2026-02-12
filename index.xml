@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Diego F. Aranha</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
       <title>Diego F. Aranha</title>
@@ -160,6 +160,68 @@ PA = Peyman Afshani&lt;/p&gt;
     </item>
     
     <item>
+      <title>Systems Security Hall of Fame</title>
+      <link>/post/syssec-hof/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/post/syssec-hof/</guid>
+      <description>&lt;p&gt;The final project in my &lt;a href=&#34;https://kursuskatalog.au.dk/en/course/130409/Systems-Security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Systems Security course&lt;/a&gt; requires students to perform a non-invasive security analysis of a real-world system, typically an Android mobile application.&lt;/p&gt;
+&lt;p&gt;This Hall of Fame recognizes the projects that produced security analysis and successful vulnerability disclosures that led to meaningful improvements in real-world systems.&lt;/p&gt;
+&lt;h2 id=&#34;successful-disclosures-2025-edition&#34;&gt;Successful Disclosures, 2025 edition&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Students&lt;/th&gt;
+&lt;th&gt;Application / System&lt;/th&gt;
+&lt;th&gt;Findings&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Lars Schmidt Hansen&lt;/td&gt;
+&lt;td&gt;Unamed work tracking app&lt;/td&gt;
+&lt;td&gt;- Insufficient authentication relying on hardcoded credentials&lt;br&gt;- Hardcoded keys for encrypting sensitive data on device&lt;br&gt;- API access allows private data enumeration&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rasmus Østerskov Gammelgaard&lt;br&gt; Alexander Nørgaard Henriksen&lt;br&gt; Luccas Ruben Joshua Constantin-Sukul&lt;/td&gt;
+&lt;td&gt;Unamed hotel booking app&lt;/td&gt;
+&lt;td&gt;- Hardcoded API keys&lt;br&gt;- Insufficient access control for backend database access &lt;br&gt;- No 2FA, weak password policy&lt;br&gt;- Deprecated algorithms in public key certificates&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Flaviu Catalin Florea&lt;br&gt; Iacob Ilinca-Maria&lt;/td&gt;
+&lt;td&gt;Unamed fitness app&lt;/td&gt;
+&lt;td&gt;- Hardcoded secrets and cleartext communication allowed in the app&amp;rsquo;s Manifest&lt;br&gt;- Weak password policy and session management issues&lt;br&gt;- Privacy concerns (lack of clarity in the policy; invasive trackers&lt;br&gt; permissions and access to user&amp;rsquo;s location)&lt;br&gt;- The door opening mechanism is vulnerable to spoofing and replay attacks&lt;br&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Kasper Mølholm Holck&lt;/td&gt;
+&lt;td&gt;Unamed community app&lt;/td&gt;
+&lt;td&gt;- Privilege escalation by any registered user&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Niels Viggo Stark Madsen&lt;br&gt; Ask Holmboe Vorting&lt;/td&gt;
+&lt;td&gt;Unamed shopping app&lt;/td&gt;
+&lt;td&gt;- Reimbursement mechanism vulnerable to spoofed items&lt;br&gt;- Coupon feature vulnerable to forgery&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jonas Ahlers&lt;br&gt; Kasper Hebsgaard&lt;br&gt; Rasmus Vestergaard Knudsen&lt;/td&gt;
+&lt;td&gt;Unamed shopping app&lt;/td&gt;
+&lt;td&gt;- No 2FA, weak password policy&lt;br&gt;- Lack of e-mail verification for new accounts&lt;br&gt;- Publicly available cloud storage of user-provided data&lt;br&gt;- QR code for successful purchases is handled client-side only&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nicolai Landkildehus Lisle&lt;/td&gt;
+&lt;td&gt;Unamed transport app&lt;/td&gt;
+&lt;td&gt;- Session management issues&lt;br&gt;- Account hijack under some circumstances&lt;br&gt;- Risk of account enumeration&lt;br&gt;- Lack of certificate pinning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Asger Song Høøck Poulsen&lt;br&gt; Kristian Dueholm Hill&lt;br&gt; Nikolaj Kühne Jakobsen&lt;/td&gt;
+&lt;td&gt;Unamed shopping app&lt;/td&gt;
+&lt;td&gt;- Harcoded secrets (API keys and credentials)&lt;br&gt; - Spoofing of payment transactions&lt;br&gt; - Bypass of basket check process&lt;br&gt;- Enumeration of private user data&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing</title>
       <link>/talk/line-break-cryptanalysis-and-reverse-engineering-of-letter-sealing/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
@@ -176,7 +238,7 @@ PA = Peyman Afshani&lt;/p&gt;
     </item>
     
     <item>
-      <title>[en_US] We need to talk about article 263</title>
+      <title>We need to talk about article 263</title>
       <link>/post/article263/</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
       <guid>/post/article263/</guid>
