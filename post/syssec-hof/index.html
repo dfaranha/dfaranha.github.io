@@ -934,7 +934,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>The final project in my <a href="https://kursuskatalog.au.dk/en/course/130409/Systems-Security" target="_blank" rel="noopener">Systems Security course</a> requires students to perform a non-invasive security analysis of a real-world system, typically an Android mobile application.</p>
+      <p>The final project in my <a href="https://kursuskatalog.au.dk/en/course/130409/Systems-Security" target="_blank" rel="noopener">Systems Security course</a> requires students to perform a non-invasive security analysis of a real-world system, usually an Android mobile application.</p>
 <p>This Hall of Fame recognizes the projects that produced security analysis and successful vulnerability disclosures that led to meaningful improvements in real-world systems.</p>
 <h2 id="successful-disclosures-2025-edition">Successful Disclosures, 2025 edition</h2>
 <table>
@@ -949,7 +949,7 @@
 <tr>
 <td>Lars Schmidt Hansen</td>
 <td>Unnamed work tracking app</td>
-<td>- Insufficient authentication relying on hardcoded credentials<br>- Hardcoded keys for encrypting sensitive data on device<br>- API access allows private data enumeration</td>
+<td>- Insufficient authentication relying on hardcoded credentials<br>- Hardcoded keys for encrypting sensitive data on device<br>- API access allows enumeration of private user data</td>
 </tr>
 <tr>
 <td>Rasmus Østerskov Gammelgaard<br> Alexander Nørgaard Henriksen<br> Luccas Ruben Joshua Constantin-Sukul</td>
@@ -957,9 +957,9 @@
 <td>- Hardcoded API keys<br>- Insufficient access control for backend database access <br>- No 2FA, weak password policy<br>- Deprecated algorithms in public key certificates</td>
 </tr>
 <tr>
-<td>Flaviu Catalin Florea<br> Iacob Ilinca-Maria</td>
+<td>Flaviu Catalin Florea<br> Iacob Ilinca-Maria<br></td>
 <td>Unnamed fitness app</td>
-<td>- Hardcoded secrets and cleartext communication allowed in the app&rsquo;s Manifest<br>- Weak password policy and session management issues<br>- Privacy concerns (lack of clarity in the policy; invasive trackers<br> permissions and access to user&rsquo;s location)<br>- The door opening mechanism is vulnerable to spoofing and replay attacks<br></td>
+<td>- Hardcoded secrets and cleartext communication allowed in the app&rsquo;s Manifest<br>- Weak password policy and session management issues<br>- Privacy concerns (unclear policy; invasive trackers<br> permissions and access to user&rsquo;s location)<br>- The door opening mechanism is vulnerable to spoofing and replay attacks<br></td>
 </tr>
 <tr>
 <td>Kasper Mølholm Holck</td>
@@ -974,7 +974,7 @@
 <tr>
 <td>Jonas Ahlers<br> Kasper Hebsgaard<br> Rasmus Vestergaard Knudsen</td>
 <td>Unnamed shopping app</td>
-<td>- No 2FA, weak password policy<br>- Lack of e-mail verification for new accounts<br>- Publicly available cloud storage of user-provided data<br>- QR code for successful purchases is handled client-side only</td>
+<td>- No 2FA, weak password policy<br>- Lack of e-mail verification during signup<br>- Publicly available cloud storage of user-provided data<br>- QR code for successful purchases is handled client-side only</td>
 </tr>
 <tr>
 <td>Nicolai Landkildehus Lisle</td>
@@ -990,6 +990,181 @@
 <td>Mikkel Katholm<br>Magnus Wind<br>Emil Mors</td>
 <td>Unnamed social network</td>
 <td>- Exposure of private user data in bulk through API<br>- Susceptibility to MITM attacks<br>- Lack of rate-limiting and expiry of password reset</td>
+</tr>
+</tbody>
+</table>
+<h2 id="successful-disclosures-2024-edition">Successful Disclosures, 2024 edition</h2>
+<table>
+<thead>
+<tr>
+<th>Students</th>
+<th>Application / System</th>
+<th>Findings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nikoline With Brandt-Jacobsen<br>Mariam Al-Tamimi</td>
+<td>Unnamed smart lock app</td>
+<td>- Session management issues (long lifetime even after password reset)<br>- Enumeration of private user data<br>- No 2FA, weak password policy<br>- Unclear privacy policy</td>
+</tr>
+<tr>
+<td>Markus V. G. Jensen<br>Hans-Christian Kjeldsen<br>Andreas Skriver Nielsen</td>
+<td>Unnamed restaurant app</td>
+<td>- Loyalty program vulnerable to forgery<br>- Weak password policy and session management issues<br>- Privacy concerns (location data)</td>
+</tr>
+<tr>
+<td>Thomas Kingo Thunbo Mogensen<br>Niklas Bille Olesen</td>
+<td>Unnamed restaurant app</td>
+<td>- Loyalty program vulnerable to forgery<br>- Leakage of private user data<br>- Insufficient rate limiting for PINs</td>
+</tr>
+<tr>
+<td>Joshua Knud Hagemann<br>Adalsteinn Ingi Palsson</td>
+<td>Unnamed transport app</td>
+<td>- Leakage of private user data<br>- Risk of account takeover<br>- Insufficient authentication in the API<br>- No multi-factor authentication</td>
+</tr>
+<tr>
+<td>Rasmus Vølund Hansen<br>Simon Mortiz Jensen</td>
+<td>Unnamed healthcare app</td>
+<td>- Insecure cryptographic algorithms<br>- No 2FA, weak password policy<br>- Hardcoded keys for encrypting sensitive data on device</td>
+</tr>
+<tr>
+<td>Lauge Dybkjær Hansen<br>Emil Drewsen Jørgensen<br>Silas Glenting Linde</td>
+<td>Unnamed transport app</td>
+<td>- No certificate pinning<br>- No 2FA, weak password policy<br>- Permission inflation<br>- Lack of e-mail verification during signup</td>
+</tr>
+<tr>
+<td>Yifan Dong<br>Simon Schwarz</td>
+<td>Unnamed transport app</td>
+<td>- No backend validation of payment transactions<br>- Risk of ticket forgery</td>
+</tr>
+</tbody>
+</table>
+<h2 id="successful-disclosures-2023-edition">Successful Disclosures, 2023 edition</h2>
+<table>
+<thead>
+<tr>
+<th>Students</th>
+<th>Application / System</th>
+<th>Findings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Herluf Baggesen<br>Mads Buchmann Frederiksen<br>Ivan Luchev</td>
+<td>Unnamed marketplace app</td>
+<td>- Weak authentication mechanisms<br>- Leakage of private user data<br>- Permission inflation</td>
+</tr>
+<tr>
+<td>Tobias Kaj Nikolaj Sørensen<br>Thomas Axel Randrup</td>
+<td>Unnamed healthcare app</td>
+<td>- Lack of certificate pinning<br>- Permission inflation<br>Leakage of private user data</td>
+</tr>
+<tr>
+<td>Carl Ulsøe Christensen<br>&gt;Bjarke Vangsgaard</td>
+<td>Unnamed shopping app</td>
+<td>- Hardcoded API keys<br>Weak password policy<br>- Insecure TLS versions allowed<br>- Enumeration of private user data</td>
+</tr>
+</tbody>
+</table>
+<h2 id="successful-disclosures-2022-edition">Successful Disclosures, 2022 edition</h2>
+<table>
+<thead>
+<tr>
+<th>Students</th>
+<th>Application / System</th>
+<th>Findings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mikkel S. Andersen1<br>Victor A. M. Norrild2</td>
+<td>Unnamed restaurant app</td>
+<td>- Weak authentication mechanisms<br>- Hardcoded API keys<br>- Lack of certificate pinning<br>- Enumeration of private user data<br>- No access control for API<br>- Privacy concerns (location data and compliance)</td>
+</tr>
+<tr>
+<td>Alexander Stæhr Johansen</td>
+<td>Unnamed restaurant app</td>
+<td>- Lack of certificate pinning<br>- Weak TLS configurations<br>- Risk of tampering with advertisement campaigns</td>
+</tr>
+<tr>
+<td>Dikte Straadt<br>Lena Todnem</td>
+<td>Unnamed healthcare app</td>
+<td>- Session management issues (no invalidation, long lived)<br>- No 2FA, weak password policy<br>- Privacy issues with sharing data</td>
+</tr>
+</tbody>
+</table>
+<h2 id="successful-disclosures-2021-edition">Successful Disclosures, 2021 edition</h2>
+<table>
+<thead>
+<tr>
+<th>Students</th>
+<th>Application / System</th>
+<th>Findings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mark Nørtoft Jensen<br>Eske Hoy Nielsen<br>Yasar Plueckebaum</td>
+<td>Unnamed hotel booking app</td>
+<td>- No access control for backend server<br>- Leakage of private user data<br>- Weak authentication mechanisms<br>- Hardcoded API keys</td>
+</tr>
+<tr>
+<td>Sebastian Tillema Rasmussen<br>Kasper Løhde</td>
+<td>Unnamed shopping app</td>
+<td>- Weak authentication mechanisms<br>- Lack of e-mail verification during signup<br>- DoS attacks<br>- Unclear privacy policy</td>
+</tr>
+<tr>
+<td>Mathias Laursen<br>Thor Garske Andresen<br>Anders Bille Wiggers<br></td>
+<td>Unnamed shopping app</td>
+<td>- Weak SSL/TLS versions and cipher suites<br>- Hardcoded API keys<br>- Lack of e-mail verification during signup</td>
+</tr>
+<tr>
+<td>Anders Faber Mygind<br>Christian Brok Jacobsen<br></td>
+<td>Unnamed shopping app</td>
+<td>- Point system vulnerable to forgery<br>- Enumeration attacks<br>- Unclear privacy policy</td>
+</tr>
+<tr>
+<td>Tessa Broeders<br>Anders Jensen Løvig<br>Thomas Hoffmann<br></td>
+<td>Unnamed shopping app</td>
+<td>- Weak authentication mechanisms<br>- Unclear privacy policy</td>
+</tr>
+<tr>
+<td>Mikkel Gaba<br>Sergei Kirillov<br>Marcus Sellebjerg</td>
+<td>Unnamed restaurant app</td>
+<td>- Weak SSL/TLS cipher suites<br>- Inflated permissions<br>- Unclear privacy policy<br>- No multi-factor authentication</td>
+</tr>
+<tr>
+<td>Radu Aron</td>
+<td>Unnamed phone operator app</td>
+<td>- Downgrade to plaintext transmission</td>
+</tr>
+<tr>
+<td>Nijithaan Selvaratnam</td>
+<td>Unnamed transport app</td>
+<td>- Unclear privacy policy<br>- No 2FA, weak password policy<br>- Device authentication is not properly implemented</td>
+</tr>
+</tbody>
+</table>
+<h2 id="successful-disclosures-2020-edition">Successful Disclosures, 2020 edition</h2>
+<table>
+<thead>
+<tr>
+<th>Students</th>
+<th>Application / System</th>
+<th>Findings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Anders Kloborg<br>Christian Mørup</td>
+<td>Unnamed work tracking app</td>
+<td>- Weak authentication mechanisms<br>- Default credentials<br>- Risk of account takeover</td>
+</tr>
+<tr>
+<td>Anna Hansen</td>
+<td>Unnamed parcel delivery app</td>
+<td>- Hardcoded credentials<br>- Issues with Bluetooth authentication</td>
 </tr>
 </tbody>
 </table>
