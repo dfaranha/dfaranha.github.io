@@ -35,7 +35,13 @@
     <loc>/publication-type/1/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/adam-blatchley-hansen/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/aardalafgp26/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/aranhahm26/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/marius-a.-aardal/</loc>
@@ -45,6 +51,9 @@
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/thomas-kingo-t.-mogensen/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/yanbin-pan/</loc>
@@ -119,7 +128,13 @@
     <loc>/authors/doreen-riepel/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/cominettisama25/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/edson-borin/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/eduardo-lopes-cominetti/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/elena-pagnin/</loc>
@@ -191,6 +206,9 @@
     <loc>/authors/patrick-longa/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/paulo-matias/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/pierrick-dartois/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -198,6 +216,9 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/rasmus-%C3%B8.-gammelgaard/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/roberto-araujo/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/aranhaghm25/</loc>
@@ -678,9 +699,6 @@
     <lastmod>2019-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/caio-luders-araujo/</loc>
-    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/paulo-matias/</loc>
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/pedro-barbosa/</loc>
@@ -1399,5 +1417,7 @@
     <loc>/courses/</loc>
   </url><url>
     <loc>/authors/admin/</loc>
+  </url><url>
+    <loc>/authors/marcos-a.-simplicio-jr./</loc>
   </url>
 </urlset>

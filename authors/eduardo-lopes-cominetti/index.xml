@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Lopes Cominetti | Diego F. Aranha</title>
+    <link>/authors/eduardo-lopes-cominetti/</link>
+      <atom:link href="/authors/eduardo-lopes-cominetti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduardo Lopes Cominetti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
+      <title>Eduardo Lopes Cominetti</title>
+      <link>/authors/eduardo-lopes-cominetti/</link>
+    </image>
+    
+    <item>
+      <title>E2Easy: a Simple Lattice-Based in-Person End-to-End Voting Scheme</title>
+      <link>/publication/cominettisama25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/cominettisama25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
