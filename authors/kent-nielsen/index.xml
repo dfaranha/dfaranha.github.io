@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adam Blatchley Hansen | Diego F. Aranha</title>
-    <link>/authors/adam-blatchley-hansen/</link>
-      <atom:link href="/authors/adam-blatchley-hansen/index.xml" rel="self" type="application/rss+xml" />
-    <description>Adam Blatchley Hansen</description>
+    <title>Kent Nielsen | Diego F. Aranha</title>
+    <link>/authors/kent-nielsen/</link>
+      <atom:link href="/authors/kent-nielsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kent Nielsen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu02882e91b61d24b9b2e82a121138acdf_634_512x512_fill_lanczos_center_3.png</url>
-      <title>Adam Blatchley Hansen</title>
-      <link>/authors/adam-blatchley-hansen/</link>
+      <title>Kent Nielsen</title>
+      <link>/authors/kent-nielsen/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/aranhabhns26/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/publication/aranhabhns26/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing</title>
-      <link>/publication/aranhahm26/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/aranhahm26/</guid>
       <description></description>
     </item>
     
