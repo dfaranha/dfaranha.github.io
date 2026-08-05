@@ -42,7 +42,7 @@
 &lt;tr&gt;
 &lt;td&gt;Flaviu Catalin Florea&lt;br&gt; Iacob Ilinca-Maria&lt;br&gt;&lt;/td&gt;
 &lt;td&gt;Unnamed fitness app&lt;/td&gt;
-&lt;td&gt;- Hardcoded secrets and cleartext communication allowed in the app&amp;rsquo;s Manifest&lt;br&gt;- Weak password policy and session management issues&lt;br&gt;- Privacy concerns (unclear policy; invasive trackers&lt;br&gt; permissions and access to user&amp;rsquo;s location)&lt;br&gt;- The door opening mechanism is vulnerable to spoofing and replay attacks&lt;br&gt;&lt;/td&gt;
+&lt;td&gt;- Hardcoded secrets and cleartext communication allowed in the app&amp;rsquo;s Manifest&lt;br&gt;- Weak password policy and session management issues&lt;br&gt;- Privacy concerns (unclear policy; invasive trackers/permissions and access to user&amp;rsquo;s location)&lt;br&gt;- The door opening mechanism is vulnerable to spoofing and replay attacks&lt;br&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Kasper Mølholm Holck&lt;/td&gt;
@@ -67,7 +67,7 @@
 &lt;tr&gt;
 &lt;td&gt;Asger Song Høøck Poulsen&lt;br&gt; Kristian Dueholm Hill&lt;br&gt; Nikolaj Kühne Jakobsen&lt;/td&gt;
 &lt;td&gt;Unnamed shopping app&lt;/td&gt;
-&lt;td&gt;- Harcoded secrets (API keys and credentials)&lt;br&gt; - Spoofing of payment transactions&lt;br&gt; - Bypass of basket check process&lt;br&gt;- Enumeration of private user data&lt;/td&gt;
+&lt;td&gt;- Hardcoded secrets (API keys and credentials)&lt;br&gt; - Spoofing of payment transactions&lt;br&gt; - Bypass of basket check process&lt;br&gt;- Enumeration of private user data&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Mikkel Katholm&lt;br&gt;Magnus Wind&lt;br&gt;Emil Mors&lt;/td&gt;
@@ -107,7 +107,7 @@
 &lt;td&gt;- Leakage of private user data&lt;br&gt;- Risk of account takeover&lt;br&gt;- Insufficient authentication in the API&lt;br&gt;- No multi-factor authentication&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Rasmus Vølund Hansen&lt;br&gt;Simon Mortiz Jensen&lt;/td&gt;
+&lt;td&gt;Rasmus Vølund Hansen&lt;br&gt;Simon Moritz Jensen&lt;/td&gt;
 &lt;td&gt;Unnamed healthcare app&lt;/td&gt;
 &lt;td&gt;- Insecure cryptographic algorithms&lt;br&gt;- No 2FA, weak password policy&lt;br&gt;- Hardcoded keys for encrypting sensitive data on device&lt;/td&gt;
 &lt;/tr&gt;
@@ -141,12 +141,12 @@
 &lt;tr&gt;
 &lt;td&gt;Tobias Kaj Nikolaj Sørensen&lt;br&gt;Thomas Axel Randrup&lt;/td&gt;
 &lt;td&gt;Unnamed healthcare app&lt;/td&gt;
-&lt;td&gt;- Lack of certificate pinning&lt;br&gt;- Permission inflation&lt;br&gt;Leakage of private user data&lt;/td&gt;
+&lt;td&gt;- Lack of certificate pinning&lt;br&gt;- Permission inflation&lt;br&gt;- Leakage of private user data&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Carl Ulsøe Christensen&lt;br&gt;&amp;gt;Bjarke Vangsgaard&lt;/td&gt;
+&lt;td&gt;Carl Ulsøe Christensen&lt;br&gt;Bjarke Vangsgaard&lt;/td&gt;
 &lt;td&gt;Unnamed shopping app&lt;/td&gt;
-&lt;td&gt;- Hardcoded API keys&lt;br&gt;Weak password policy&lt;br&gt;- Insecure TLS versions allowed&lt;br&gt;- Enumeration of private user data&lt;/td&gt;
+&lt;td&gt;- Hardcoded API keys&lt;br&gt;- Weak password policy&lt;br&gt;- Insecure TLS versions allowed&lt;br&gt;- Enumeration of private user data&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
