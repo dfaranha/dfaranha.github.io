@@ -936,6 +936,74 @@
     <div class="article-style">
       <p>The final project in my <a href="https://kursuskatalog.au.dk/en/course/130409/Systems-Security" target="_blank" rel="noopener">Systems Security course</a> requires students to perform a non-invasive security analysis of a real-world system, usually an Android mobile application.</p>
 <p>This Hall of Fame recognizes the projects that produced security analysis and successful vulnerability disclosures that led to meaningful improvements in real-world systems.</p>
+<h2 id="successful-disclosures-2026-edition">Successful Disclosures, 2026 edition</h2>
+<table>
+<thead>
+<tr>
+<th>Students</th>
+<th>Application / System</th>
+<th>Findings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nikolaj Jehøj-Krogager<br> Emil Viftrup Jepsen<br> Jonas Iversen</td>
+<td>Unnamed library app</td>
+<td>- Broken DRM protection<br> - API access allows enumeration of private user data<br> - No 2FA, weak password policy</td>
+</tr>
+<tr>
+<td>Adam Holmgård Nielsen<br> Julian Brask Christensenc<br> Gustav Helbo Kabel</td>
+<td>Unnamed library app</td>
+<td>- API access allows enumeration of private user data<br> - No 2FA, weak password policy</td>
+</tr>
+<tr>
+<td>Mads Overgaard Munk<br> Kristopher B. E. Märcher<br> Rasmus Christensen</td>
+<td>Unnamed shopping app</td>
+<td>- JavaScript injection<br> - Insecure callback allows arbitrary redirect<br> - Lack of certificate pinning<br> - Leakage of financial data in some circumstances</td>
+</tr>
+<tr>
+<td>Mads Pagh<br> Marcus Mofjeld<br> Marie Alkemade</td>
+<td>Unnamed shopping app</td>
+<td>- Publicly available cloud storage of user-provided data<br> - Unlocked developer mode with access to privileged functionality<br> - Bypass of basket check process<br> - Bypass of transaction payment</td>
+</tr>
+<tr>
+<td>Emil Klein Hansena<br>Nicolai Binderup Hansen<br> Louise Pedersen Møller</td>
+<td>Unnamed shopping app</td>
+<td>- Publicly available cloud storage of user-provided data<br> - Bypass of basket check process<br> - Bypass of transaction payment<br> - Lack of e-mail verification during signup<br> - No 2FA, weak password policy</td>
+</tr>
+<tr>
+<td>Frederik Hvidbjerg Mikkelsen<br> Lasse Bjørnholt Hansen</td>
+<td>Unnamed restaurant app</td>
+<td>- Manipulation of discount prices<br> - Enumeration of sensitive data<br> - Forgery of coupouns through reuse</td>
+</tr>
+<tr>
+<td>Mathias Weller Berg Thomasen<br> Marcus Mitelea</td>
+<td>Unnamed restaurant app</td>
+<td>- Enumeration of user data<br> - Unauthenticated API leaks data and allows receipt forgery<br> - Lack of user data verification during signup<br> - No 2FA, weak password policy<br> - Account hijack under some circumstances</td>
+</tr>
+<tr>
+<td>Signe Overgaard<br> Anton Thomassen</td>
+<td>Unnamed restaurant app</td>
+<td>- Privilege escalation<br> - Account takeover through insecure password reset</td>
+</tr>
+<tr>
+<td>Mathias Jørgensen<br> Christian Cordes<br>Andreas Mandøe</td>
+<td>Unnamed restaurant app</td>
+<td>- Unlocked hidden menu with privileged functionality<br>- Enumeration of user data<br> - Account hijack under some circumstances</td>
+</tr>
+<tr>
+<td>Aniol Juanola i Vilalta<br> Katrine Sandø<br> Emil Frandsen</td>
+<td>Unnamed transport app</td>
+<td>- Session management issues<br> - Unauthenticated profiled enumeration<br> - Account hijack under some circumstances</td>
+</tr>
+<tr>
+<td>Jendrik Engels<br> Darius Mures</td>
+<td>Unnamed transport app</td>
+<td>- Lack of e-mail verification during signup<br> - Session management issues<br> - Enumeration of referral codes</td>
+</tr>
+</tbody>
+</table>
+<!-- TODO: IP cameras, bank -->
 <h2 id="successful-disclosures-2025-edition">Successful Disclosures, 2025 edition</h2>
 <table>
 <thead>
