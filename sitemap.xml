@@ -35,6 +35,9 @@
     <loc>/publication-type/1/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/4/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,6 +59,12 @@
     <loc>/publication/kimuralaas26/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/giacomo-borin/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/guilhem-niot/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/kent-nielsen/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -74,6 +83,9 @@
     <loc>/publication/zksecurity26/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/aranhabcn26/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/peter-scholl/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -84,6 +96,9 @@
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/roberto-araujo/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sofia-celi/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/thomas-kingo-t.-mogensen/</loc>
@@ -109,9 +124,6 @@
   </url><url>
     <loc>/post/article263/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/argovrga25/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
