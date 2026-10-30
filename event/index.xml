@@ -213,14 +213,6 @@
     </item>
     
     <item>
-      <title>Efficient software implementation of binary field arithmetic using vector instruction sets</title>
-      <link>/talk/efficient-software-implementation-of-binary-field-arithmetic-using-vector-instruction-sets/</link>
-      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>/talk/efficient-software-implementation-of-binary-field-arithmetic-using-vector-instruction-sets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Software implementation of pairings</title>
       <link>/talk/software-implementation-of-pairings/</link>
       <pubDate>Mon, 19 Sep 2011 00:00:00 +0000</pubDate>
